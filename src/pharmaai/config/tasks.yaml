@@ -1,17 +1,72 @@
-research_task:
-  description: >
-    Conduct a thorough research about {topic}
-    Make sure you find any interesting and relevant information given
-    the current year is {current_year}.
-  expected_output: >
-    A list with 10 bullet points of the most relevant information about {topic}
-  agent: researcher
+# Fichier : tasks.yaml
 
-reporting_task:
+tache_recherche_information:
   description: >
-    Review the context you got and expand each topic into a full section for a report.
-    Make sure the report is detailed and contains any and all relevant information.
+    À partir de la question suivante qui sera fournie en entrée : '{question_pharmacienne}'.
+    Mener une recherche approfondie et ciblée en utilisant l'outil de recherche Exa.
+    Vous devez impérativement prioriser les informations provenant des sources françaises
+    officielles et reconnues telles que : l'ANSM, la HAS, le Vidal, Thesorimed,
+    la Base de données publique des médicaments, le site de l'Ordre National des Pharmaciens,
+    Meddispar, ainsi que les articles de revues professionnelles pertinentes (par exemple, Le Moniteur des Pharmacies).
+    Votre mission est de collecter les données factuelles, les recommandations en vigueur,
+    les points de vigilance essentiels et les aspects réglementaires spécifiques à la question posée.
   expected_output: >
-    A fully fledged report with the main topics, each with a full section of information.
-    Formatted as markdown without '```'
-  agent: reporting_analyst
+    Un rapport de recherche concis, précis et structuré, intégralement rédigé en français.
+    Ce rapport doit lister clairement les informations clés identifiées, les extraits de données pertinents
+    et impérativement les URLs des sources officielles consultées les plus importantes.
+    Le rapport doit être directement exploitable par un pharmacien expert pour une analyse clinique approfondie.
+  agent: 'pharmacien_chercheur'
+
+tache_analyse_clinique_et_synthese:
+  description: >
+    Analyser de manière exhaustive et critique le rapport de recherche fourni par la tâche précédente.
+    Valider avec rigueur l'exactitude et la pertinence des informations recueillies dans le contexte
+    spécifique de la pratique en pharmacie d'officine en France.
+    Synthétiser l'ensemble de ces données validées pour formuler une réponse technique complète,
+    précise et directement applicable. Cette réponse, rédigée en français, doit clairement aborder les aspects
+    pharmacologiques, thérapeutiques, et réglementaires. Elle identifiera aussi les conseils de
+    dispensation pertinents, les interactions médicamenteuses majeures à surveiller, et les points de
+    vigilance cruciaux pour un pharmacien d'officine.
+    Lorsque vous référencez des informations clés provenant directement du rapport de recherche,
+    mentionnez la source originale (et son URL si fournie par l'agent chercheur) dans votre analyse.
+    Cela permettra à l'agent final de créer des liens directs.
+  expected_output: >
+    Un document de synthèse clinique, rédigé en français, clair, précis et factuellement irréprochable.
+    Ce document doit présenter une analyse pharmaceutique validée et approfondie des informations,
+    prête à être transformée en un support pédagogique de haute qualité. Il doit être orienté vers
+    la pratique officinale quotidienne et justifier les recommandations formulées.
+    La synthèse doit clairement indiquer les sources principales pour les recommandations majeures,
+    en incluant ou en référençant les URLs fournies par l'agent chercheur, pour faciliter leur citation ultérieure.
+  agent: 'pharmacien_expert_clinique'
+  context:
+    - 'tache_recherche_information'
+
+tache_formulation_pedagogique_reponse:
+  description: >
+    S'approprier l'analyse clinique et la synthèse technique fournies par la tâche précédente.
+    Reformuler intégralement ces informations en français, en adoptant un ton de partage confraternel et d'expertise pratique.
+    L'objectif est de rendre ces informations directement actionnables et hautement pertinentes pour un
+    pharmacien confrère découvrant les spécificités et les défis de la pratique officinale. Mettre l'accent
+    sur les implications pratiques, les points de vigilance critiques et les conseils issus de l'expérience terrain,
+    plutôt que sur une explication purement académique ou des rappels de fondamentaux supposés acquis.
+    La structure doit rester logique et faciliter une consultation efficace par un professionnel.
+    Le ton général doit être celui d'un collègue expérimenté qui guide un pair avec respect, clarté et pragmatisme,
+    en évitant toute familiarité excessive, condescendance ou jargon inutilement complexe.
+    À la fin de votre réponse, ou de manière appropriée au fil du texte si pertinent,
+    vous devez inclure les références aux sources d'information originales.
+    Pour chaque source disposant d'une URL (fournie par l'agent chercheur),
+    vous créerez un lien hypertexte au format Markdown : [Titre ou description de la source](URL).
+    Exemple : [Nom de l'Article - Le Moniteur des Pharmacies](https://www.example.com/article).
+    Assurez-vous de la clarté et de la pertinence de ces citations.
+  expected_output: >
+    La réponse finale, rédigée exclusivement en français, prête à être partagée avec un confrère ou une consœur pharmacien.
+    Cette réponse doit être exhaustive, cliniquement exacte, formulée de manière pragmatique et professionnelle,
+    clairement structurée pour une application directe en officine. Le ton doit être collégial, précis, constructif et respectueux,
+    valorisant l'échange d'expertise et la transmission de savoir-faire pratique. Le style doit être engageant et accessible
+    pour un professionnel, sans être infantilisant ni obscur.
+    La réponse finale doit impérativement inclure une section "Sources" ou des citations intégrées
+    listant les références avec des liens hypertextes Markdown fonctionnels vers les URLs originales
+    identifiées dans le rapport de recherche initial.
+  agent: 'pharmacien_pedagogue'
+  context:
+    - 'tache_analyse_clinique_et_synthese'

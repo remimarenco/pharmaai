@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import sys
+from tabnanny import verbose
 import warnings
 
 from datetime import datetime
@@ -17,11 +18,12 @@ def run():
     """
     Run the crew.
     """
+    # Demander la question à l'utilisateur
+    question = input("Quelle est votre question pharmaceutique ? ")
     inputs = {
-        'topic': 'AI LLMs',
+        'question_pharmacienne': question,
         'current_year': str(datetime.now().year)
     }
-    
     try:
         Pharmaai().crew().kickoff(inputs=inputs)
     except Exception as e:
@@ -32,13 +34,14 @@ def train():
     """
     Train the crew for a given number of iterations.
     """
+    # Demander la question à l'utilisateur
+    question = input("Quelle est votre question pharmaceutique pour l'entraînement ? ")
     inputs = {
-        "topic": "AI LLMs",
+        'question_pharmacienne': question,
         'current_year': str(datetime.now().year)
     }
     try:
         Pharmaai().crew().train(n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs)
-
     except Exception as e:
         raise Exception(f"An error occurred while training the crew: {e}")
 
@@ -56,13 +59,13 @@ def test():
     """
     Test the crew execution and returns the results.
     """
+    # Demander la question à l'utilisateur
+    question = input("Quelle est votre question pharmaceutique pour le test ? ")
     inputs = {
-        "topic": "AI LLMs",
-        "current_year": str(datetime.now().year)
+        'question_pharmacienne': question,
+        'current_year': str(datetime.now().year)
     }
-    
     try:
         Pharmaai().crew().test(n_iterations=int(sys.argv[1]), eval_llm=sys.argv[2], inputs=inputs)
-
     except Exception as e:
         raise Exception(f"An error occurred while testing the crew: {e}")

@@ -1,0 +1,71 @@
+### **Échanges Concrats entre Confrères : Maîtriser les Nouveautés de la Vaccination en Officine (2024)**  
+
+#### **I. Ce qui change vraiment dans notre cadre légal**  
+La LFSS 2024 a bouleversé notre périmètre d'action – voici ce qui impacte votre quotidien :  
+- **Prescription + administration sans ordo** pour tout vaccin du calendrier (≥11 ans), sous réserve des CI. Un vrai gain de temps pour les patients, ***mais exige une vigilance accrue sur les contre-indications*** ([FAQ officielle de l'ONP](https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-foires-aux-questions/prescription-et-administration-des-vaccins-a-l-officine)).  
+- **Habilitation des préparateurs** : Ils peuvent vacciner sous votre supervision *après formation validée*. ***Astuce terrain*** : Créez un référentiel interne avec les signatures autorisées pour éviter les erreurs ([Décret n°2023-736](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047957008), [Le Moniteur](https://www.lemoniteurdespharmacies.fr/nouvelles-missions/vaccination/les-preparateurs-en-pharmacie-autorises-a-administrer-tous-les-vaccins)).  
+- **Exception pratique** : Pour les vaccins vivants (ROR, varicelle) chez les immunodéprimés, exigez toujours une prescription. ***Piège classique*** : Un patient sous corticothérapie longue durée = immunodépression potentielle.  
+
+#### **II. Vacciner sans ordonnance : Focus pratique sur les points chauds**  
+Voici le récap' terrain, basé sur le calendrier 2024 ([Vaccination Info Service](https://vaccination-info-service.fr/)) :  
+
+| Vaccin       | Public cible               | Vigilance immédiate & Conseil patient |  
+|--------------|----------------------------|--------------------------------------|  
+| **DTP-Ca**   | Rappel adultes             | ***Vérifiez systématiquement le statut vaccinal*** (Ex : "Votre dernier rappel polio ?"). Évitez le rattrapage hasardeux. |  
+| **ROR**      | ≥11 ans non vaccinés       | ***Demandez : "Grossesse récente ? Traitement immunosuppresseur ?"***. Contre-indication absolue si oui. |  
+| **HPV**      | 11-14 ans (garçons/filles) | ***Schéma à 2 doses si <15 ans***. Insistez sur la nécessité de la 2ᵉ dose. |  
+| **Zona**     | ≥65 ans                    | ***Remboursé depuis mars 2024*** ! Annoncez-le aux patients ([Vidal](https://www.vidal.fr/actualites/31095-vaccination-contre-le-zona-shingrix-remboursable-dans-le-droit-commun.html)). |  
+| **Méningo B**| Patients aspléniques      | ***Administration distincte du vaccin ACWY (délai 1 mois obligatoire)***. Dans le doute, reportez. |  
+
+> ***Conseil confraternel*** : Affichez ce tableau dans votre réserve pour une consultation rapide lors des affluences.  
+
+#### **III. Procédures incontournables : Optimisez votre flow vaccinal**  
+1. **Formation** : Certificat obligatoire pour vous *et* vos préparateurs, avec recyclage tous les 3 ans. ***Ne négligez pas le module gestes d'urgence*** (anaphylaxie) ([Arrêté du 9 août 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047957033)).  
+2. **Traçabilité** :  
+   - ***Saisie INSTANTANÉE*** dans le Dossier Pharmaceutique et Carnet de Vaccination Électronique (via Mon Espace Santé).  
+   - Mention ***obligatoire*** : n° de lot, site d’injection, vaccinateur. ***Oublier = risque juridique.***  
+3. **Trousse d'urgence** : Contrôlez l’adrénaline, antihistaminiques, corticoïdes ***chaque lundi***. Pensez à un système d’alerte DLC sur votre smartphone.  
+
+#### **IV. L'art de l'évaluation patient : Détecter les pièges en 5 min**  
+- **Check-list pré-vaccinale** :  
+  ✓ Questionnaire médical court mais ciblé (allergies sévères, immunodépression, grossesse).  
+  ✓ ***Croisez les sources*** : Logiciel officinal + Dossier Pharmaceutique + Entretien patient.  
+  ✓ CI absolues : Réaction anaphylactique antérieure au vaccin/composant (ex : œuf pour grippe).  
+- **Post-vaccination** :  
+  - Gardez le patient ***15 min en salle dédiée*** (30 min si antécédents allergiques). Profitez-en pour vérifier le DP.  
+  - Remettez une ***fiche écrite*** listant :  
+    › Effets normaux (fièvre <48h, douleur au site).  
+    › Signes d'alerte (urticaire généralisé, dyspnée → retour immédiat).  
+- **Interactions médicamenteuses à haut risque** :  
+  › Immunosuppresseurs (méthotrexate, etc.) : Efficacité vaccinale réduite → ***Vérifiez la date du dernier traitement*** ([Vidal Interactions](https://www.vidal.fr/)).  
+  › Anticoagulants : Privilégiez la ***voie sous-cutanée + compression 5 min***.  
+
+#### **V. Effets indésirables : Agir vite, protéger le patient**  
+- Tout effet ***grave*** (ex : paralysie faciale, Guillain-Barré) → déclarez sous 24h sur le [**portail ANSM**](https://signalement.social-sante.gouv.fr/) + alertez le CRPV local.  
+- ***Bon réflexe*** : Notez immédiatement le numéro de lot dans votre registre dédié.  
+
+#### **VI. Cas pratique grippe 2024-2025 : Ce que disent les textes... et le terrain**  
+Source : [Note DGS 2024-90 - Campagne grippale](https://www.ordre.pharmacien.fr/mediatheque/fichiers/note-d-information-n-dgs-mvi-dgos-rh3-dgcs-sd3-2024-90-du-7-aout-2024-relative-a-la-campagne-de-vaccination-2024-2025-contre-la-grippe-saisonniere)  
+- **Public prioritaire** : ≥65 ans, femmes enceintes, comorbidités → ***demandez toujours un justificatif*** (ex : ordonnance pour pathologie chronique).  
+- **Rôle des préparateurs** : Ils peuvent vacciner sous votre supervision → ***désignez un référent vaccinal dans votre équipe***.  
+- **Remboursement** : 100% sans avance de frais → ***communiquez clairement pour booster l'adhésion***.  
+
+#### **Retour d'expérience : Les 3 piliers de la vaccination réussie**  
+1. **Actualisation mensuelle** du calendrier vaccinal sur [Vaccination Info Service](https://vaccination-info-service.fr/).  
+2. **Audit interne** : Fiches de traçabilité (1x/semaine), DLC trousse d'urgence (1x/semaine).  
+3. **Dialogue médecin-pharmacien** : Pour les cas complexes (immunodépression), une ligne téléphonique dédiée est utile.  
+
+> **En résumé** : Ces nouvelles compétences renforcent notre rôle de santé publique, mais exigent rigueur procédurale et vigilance clinique. Mutualisez vos retours d'expérience entre confrères – c'est la clé !  
+
+---
+
+**Sources & Références pratiques**  
+- [Ordre National des Pharmaciens - FAQ Vaccination](https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-foires-aux-questions/prescription-et-administration-des-vaccins-a-l-officine  
+- [Décret n°2023-736 sur l'habilitation des préparateurs](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047957008)  
+- [Arrêté du 9 août 2023 - Formation vaccination](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047957033)  
+- [Vaccination Info Service - Calendrier 2024](https://vaccination-info-service.fr/)  
+- [Portail ANSM pour signalement EI](https://signalement.social-sante.gouv.fr/)  
+- [Dossier grippe 2024-2025 par l'ONP](https://www.ordre.pharmacien.fr/mediatheque/fichiers/note-d-information-n-dgs-mvi-dgos-rh3-dgcs-sd3-2024-90-du-7-aout-2024-relative-a-la-campagne-de-vaccination-2024-2025-contre-la-grippe-saisonniere)  
+- [Article Vidal - Remboursement Shingrix](https://www.vidal.fr/actualites/31095-vaccination-contre-le-zona-shingrix-remboursable-dans-le-droit-commun.html  
+
+*Document structuré pour une application immédiate en officine – Partage confraternel consolidé le 20/05/2024.*
