@@ -1,0 +1,89 @@
+### **Guide Pratique : Prise en Charge des Femmes Épileptiques en Âge de Procréer, Enceintes ou Allaitantes - Conseils d'Officine**
+
+**Cher(e) Confrère, Chère Consœur,**  
+Voici une synthèse pratique des points clés pour optimiser notre rôle dans le suivi des patientes épileptiques exposées à des risques spécifiques. Basé sur les dernières recommandations ANSM et HAS, ce guide vise à sécuriser le parcours patient dans notre environnement officinal.
+
+---
+
+#### **I. Consultation Préconceptionnelle : Acter en Prévention**  
+*(Notre rôle : Vérification et orientation)*  
+- **Détecter les profils à risque** : Pour toute délivrance d'antiépileptique (ATE) à une femme ≤ 45 ans :  
+  ✅ Vérifier le projet de grossesse ("Envisagez-vous une grossesse dans les 2 ans ?")  
+  ✅ Contrôler la contraception si traitement à risque (valproate, topiramate)  
+- **Stratégie thérapeutique à rappeler** :  
+  - *Encourager la monothérapie* : Moins de risques de malformations congénitales (MCM) et troubles neurodéveloppementaux (TND).  
+  - *Antiépileptiques à exclure* :  
+    > 🔴 **Valproate (Dépakine®)** : Contre-indiqué sauf échec thérapeutique validé (risque TND : 30-40%). Vérifiez systématiquement **l'accord de soins (PPG)** signé !  
+    > 🟠 Carbamazépine/Topiramate : Éviter ; prioriser alternatives (lévétiracétam, lamotrigine).  
+  > - [ANSM Valproate et grossesse](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/valproate-et-grossesse)  
+- **Acide folique** : Prescrire 5 mg/j *au moins 1 mois avant conception* (même si efficacité sur MCM liées aux ATE non prouvée).  
+  > [ANSM Rapport Antiépileptiques 2023](https://ansm.sante.fr/uploads/2023/11/29/20231129-rapport-antiepileptiques-et-grossesse-2023.pdf)  
+
+---
+
+#### **II. Grossesse : Vigilance et Coordination**  
+*(Notre rôle : Sécuriser la délivrance et alerter)*  
+- **Règle d'or** : Jamais d'arrêt brutal d'ATE → Risque de *status epilepticus* mortel.  
+- **Suivi coordonné** :  
+  - Orienter vers suivi mensuel multidisciplinaire (neuro/gynéco)  
+  - Rappeler l'importance des échos ciblées (SA 22 : cœur/visage)  
+- **Conseils clés à la patiente** :  
+  > "Conservez votre ordonnance en cours, même si la posologie est ajustée fréquemment."  
+  > "Signalez tout vomissement persistant (risque de sous-dosage)."  
+- **Adaptation des doses** : Rappeler la nécessité des dosages plasmatiques (notamment lamotrigine, dont la clairance augmente de 300% !).  
+
+---
+
+#### **III. Allaitement et Post-Partum : Évaluation Bénéfice/Risque**  
+*(Notre rôle : Dépister les signes d'alerte)*  
+- **Allaitement possible avec** :  
+  ✅ Lévétiracétam, lamotrigine (surveillance somnolence/refus de téter)  
+  ❌ Phénobarbital (sédation importante), valproate (risque hépatique)  
+- **Vigilances néonatales** (à expliquer) :  
+  - Signes de sevrage (tremblements, cris aigus) dans les 72h  
+  - Apnées avec benzodiazépines  
+  > [Fiche Patient ANSM : Conseils Allaitement](https://ansm.sante.fr/uploads/2023/11/29/20231129-fiche-patient-epileptique.pdf)  
+
+---
+
+#### **IV. Actions Officinales Critiques**  
+*(Outils concrets pour notre quotidien)*  
+1. **Interprétation des pictogrammes** :  
+   - <img width="20" alt="Femme enceinte barrée" src="https://example.com/logo1.jpg"> → **Valproate** : Refus de délivrance si PPG non conforme.  
+   - <img width="20" alt="Triangle d'exclamation" src="https://example.com/logo2.jpg">→ **Carbamazépine** : Contacter le prescripteur pour réévaluation.  
+   > [Vidal : Pictogrammes grossesse](https://www.vidal.fr/actualites/22262-grossesse-les-boites-de-medicaments-a-risque-arborent-le-pictogramme-femmes-enceintes.html)  
+
+2. **Check-list incontournable** :  
+   | Situation | Action |  
+   |----------|--------|  
+   | Délivrance valproate | Vérifier 1) Accord de soins signé 2) Test grossesse mensuel |  
+   | Patiente enceinte sous ATE | Remettre la fiche ANSM + alerter neurologue sous 24h |  
+   | Automédication | Interdire AINS/antiémétiques sans avis (interactions) |  
+
+3. **Anticiper les interactions** :  
+   - **Lamotrigine + pilule œstrogénique** : Risque de crise → Proposer contraceptions non hormonales.  
+   - **Phénytoïne + vitamine D** : Écarts de 2h pour éviter les baisses d'efficacité.  
+
+---
+
+#### **V. Réglementation : Nos Obligations**  
+- **Valproate** :  
+  - **PPG obligatoire** : Exiger la double signature (patient/médecin) à l'officine.  
+  - Signalement ANSM si non-respect via [Portail de pharmacovigilance](https://signalement.social-sante.gouv.fr).  
+- **Déclaration de grossesse** : Obligatoire pour toute exposition à un ATE (même hors valproate).  
+
+---
+
+**En Résumé** :  
+Notre force réside dans la **prévention proactive** :  
+🔹 **Avant grossesse** : Vérif. contraception/PPG + acide folique  
+🔹 **Pendant grossesse** : Non-interruption ATE + suivi coordonné  
+🔹 **Post-partum** : Surveillance néonatale  
+Utilisez les fiches ANSM en appui conseil ([Accès PDF](https://ansm.sante.fr/uploads/2023/11/29/20231129-fiche-patient-epileptique.pdf)) – Elles clarifient les messages pour nos patientes.  
+
+> ✉️ **Cas complexe ?** N'hésitez pas à solliciter le CRPV ou à réorienter vers un centre référence épilepsie-grossesse. Votre vigilance sauve des parcours.
+
+**Sources Officielles** :  
+- [ANSM : Antiépileptiques et grossesse - Mise à jour 2023](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/antiepileptique-et-grossesse)  
+- [HAS : Projet de grossesse - Fiche de synthèse](http://www.has-sante.fr/portail/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)  
+- [Vidal : Pictogrammes Grossesse](https://www.vidal.fr/actualites/22262-grossesse-les-boites-de-medicaments-a-risque-arborent-le-pictogramme-femmes-enceintes.html)  
