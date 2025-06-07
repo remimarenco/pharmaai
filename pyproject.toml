@@ -5,8 +5,11 @@ description = "PharmaAI using crewAI"
 authors = [{ name = "Your Name", email = "you@example.com" }]
 requires-python = ">=3.10,<3.13"
 dependencies = [
+    "chainlit>=2.5.5",
     "crewai[tools]>=0.121.1,<1.0.0",
+    "gradio>=5.33.0",
     "langchain-exa>=0.3.0",
+    "streamlit>=1.45.1",
 ]
 
 [project.scripts]
