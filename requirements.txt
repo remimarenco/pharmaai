@@ -74,6 +74,7 @@ click==8.2.1
     #   crewai
     #   crewai-tools
     #   litellm
+    #   rich-toolkit
     #   typer
     #   uvicorn
 cohere==5.15.0
@@ -83,6 +84,7 @@ colorama==0.4.6
     #   build
     #   click
     #   ipython
+    #   pytest
     #   tqdm
     #   uvicorn
 coloredlogs==15.0.1
@@ -113,22 +115,31 @@ distro==1.9.0
     # via
     #   openai
     #   posthog
+dnspython==2.7.0
+    # via email-validator
 docker==7.1.0
     # via crewai-tools
 docstring-parser==0.16
     # via instructor
 durationpy==0.10
     # via kubernetes
+email-validator==2.2.0
+    # via fastapi
 embedchain==0.1.128
     # via crewai-tools
 et-xmlfile==2.0.0
     # via openpyxl
+exa-py==1.14.5
+    # via pharmaai (pyproject.toml)
 executing==2.2.0
     # via stack-data
 fastapi==0.115.12
     # via
+    #   pharmaai (pyproject.toml)
     #   chromadb
     #   gradio
+fastapi-cli==0.0.7
+    # via fastapi
 fastavro==1.11.1
     # via cohere
 ffmpy==0.6.0
@@ -182,6 +193,8 @@ httpx==0.28.1
     # via
     #   chromadb
     #   cohere
+    #   exa-py
+    #   fastapi
     #   gradio
     #   gradio-client
     #   langsmith
@@ -205,6 +218,7 @@ hyperframe==6.1.0
 idna==3.10
     # via
     #   anyio
+    #   email-validator
     #   httpx
     #   requests
     #   yarl
@@ -214,6 +228,8 @@ importlib-metadata==8.6.1
     #   opentelemetry-api
 importlib-resources==6.5.2
     # via chromadb
+iniconfig==2.1.0
+    # via pytest
 instructor==1.8.3
     # via crewai
 ipython==9.3.0
@@ -224,6 +240,7 @@ jedi==0.19.2
     # via ipython
 jinja2==3.1.6
     # via
+    #   fastapi
     #   gradio
     #   instructor
     #   litellm
@@ -341,6 +358,7 @@ openai==1.75.0
     #   crewai
     #   crewai-tools
     #   embedchain
+    #   exa-py
     #   instructor
     #   langchain-openai
     #   litellm
@@ -417,6 +435,7 @@ packaging==24.2
     #   marshmallow
     #   onnxruntime
     #   opentelemetry-instrumentation
+    #   pytest
 pandas==2.3.0
     # via
     #   gradio
@@ -431,6 +450,8 @@ pillow==11.2.1
     # via
     #   gradio
     #   pdfplumber
+pluggy==1.6.0
+    # via pytest
 portalocker==2.10.1
     # via qdrant-client
 posthog==3.25.0
@@ -468,6 +489,7 @@ pydantic==2.11.5
     #   cohere
     #   crewai
     #   crewai-tools
+    #   exa-py
     #   fastapi
     #   gradio
     #   instructor
@@ -494,6 +516,7 @@ pygments==2.19.1
     # via
     #   ipython
     #   ipython-pygments-lexers
+    #   pytest
     #   rich
 pyjwt==2.10.1
     # via auth0-python
@@ -511,6 +534,10 @@ pyright==1.1.401
     # via crewai-tools
 pysbd==0.3.4
     # via embedchain
+pytest==8.4.0
+    # via pytest-mock
+pytest-mock==3.14.1
+    # via exa-py
 python-dateutil==2.9.0.post0
     # via
     #   kubernetes
@@ -524,7 +551,9 @@ python-dotenv==1.1.0
     #   pydantic-settings
     #   uvicorn
 python-multipart==0.0.18
-    # via gradio
+    # via
+    #   fastapi
+    #   gradio
 pytube==15.0.0
     # via crewai-tools
 pytz==2025.2
@@ -563,6 +592,7 @@ requests==2.32.3
     #   cohere
     #   crewai-tools
     #   docker
+    #   exa-py
     #   gptcache
     #   huggingface-hub
     #   instructor
@@ -584,7 +614,10 @@ rich==13.9.4
     #   chromadb
     #   embedchain
     #   instructor
+    #   rich-toolkit
     #   typer
+rich-toolkit==0.14.7
+    # via fastapi-cli
 rpds-py==0.25.1
     # via
     #   jsonschema
@@ -664,6 +697,7 @@ traitlets==5.14.3
 typer==0.16.0
     # via
     #   chromadb
+    #   fastapi-cli
     #   gradio
     #   instructor
 types-requests==2.32.0.20250602
@@ -675,6 +709,7 @@ typing-extensions==4.14.0
     #   beautifulsoup4
     #   chromadb
     #   cohere
+    #   exa-py
     #   fastapi
     #   gradio
     #   gradio-client
@@ -686,6 +721,7 @@ typing-extensions==4.14.0
     #   pydantic-core
     #   pyright
     #   referencing
+    #   rich-toolkit
     #   sqlalchemy
     #   typer
     #   typing-inspect
@@ -711,6 +747,8 @@ uv==0.7.12
 uvicorn==0.34.3
     # via
     #   chromadb
+    #   fastapi
+    #   fastapi-cli
     #   gradio
 watchfiles==0.20.0
     # via uvicorn
