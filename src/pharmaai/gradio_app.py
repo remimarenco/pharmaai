@@ -9,8 +9,11 @@ from datetime import datetime
 import time
 import asyncio
 from crewai.utilities.events import crewai_event_bus
-from gradio_listener import GradioCrewListener
+from pharmaai.gradio_listener import GradioCrewListener
 from pharmaai.crew import Pharmaai
+from fastapi import FastAPI
+
+app = FastAPI()
 
 sleep_time = 0.5
 
@@ -234,4 +237,7 @@ def chat_value(message, history):
 
 demo = gr.ChatInterface(call_crew, type="messages", save_history=True)
 
-demo.launch()
+#demo.launch()
+
+
+app = gr.mount_gradio_app(app, demo, path="/pharmaai")
