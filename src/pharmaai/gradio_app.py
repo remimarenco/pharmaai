@@ -73,7 +73,7 @@ async def call_crew(message: str, history: list):
     current_crew_instance = Pharmaai().crew()
     inputs = {
         'question_pharmacienne': message,
-        'current_year': str(datetime.now().year)
+        'current_datetime': str(datetime.now())
     }
 
     event_queue = asyncio.Queue()

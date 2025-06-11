@@ -22,7 +22,7 @@ def run():
     question = input("Quelle est votre question pharmaceutique ? ")
     inputs = {
         'question_pharmacienne': question,
-        'current_year': str(datetime.now().year)
+        'current_datetime': str(datetime.now())
     }
     try:
         Pharmaai().crew().kickoff(inputs=inputs)

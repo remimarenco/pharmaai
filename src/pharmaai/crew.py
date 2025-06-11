@@ -6,7 +6,8 @@ import os
 import json
 from datetime import datetime
 from pathlib import Path
-from crewai_tools import EXASearchTool
+#from crewai_tools import EXASearchTool
+from pharmaai.tools.pharmacie_exa_tool import EXASearchTool
 
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -39,9 +40,10 @@ class Pharmaai():
     @agent
     def pharmacien_chercheur(self) -> Agent:
         exa_api_key = os.getenv("EXA_API_KEY")
+
         return Agent(
             config=self.agents_config['pharmacien_chercheur'],
-            tools=[EXASearchTool(api_key=exa_api_key)],
+            tools=[EXASearchTool(api_key=exa_api_key, content=True)],
             verbose=True
         )
 
