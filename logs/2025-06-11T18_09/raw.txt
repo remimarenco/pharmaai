@@ -1,0 +1,89 @@
+# Fiche Pratique : Cholecalciférol (Vitamine D3) en Officine
+
+**Points Clés à Retenir**
+
+*   **Prescription Obligatoire :** La plupart des formes de cholecalciférol (en ampoules) nécessitent une prescription médicale ; la dispensation est donc soumise à présentation d'ordonnance.
+*   **Surveillance de l'Hypercalcémie :** L'hypercalcémie est le principal effet indésirable. Surveiller les symptômes et informer les patients.
+*   **Recommandations ANSM :** Être vigilant sur l'étiquetage des ampoules injectables pour limiter les erreurs médicamenteuses. Respecter les recommandations de l'ANSM.
+*   **Conseils Patients :** Éducation thérapeutique, respect de la posologie, information sur les effets secondaires et l'importance du suivi médical.
+
+**1. Pharmacologie et Indications**
+
+1.  1.  **Pharmacologie :** Le cholecalciférol (vitamine D3) est une vitamine liposoluble essentielle à la santé osseuse, absorbée par l'alimentation ou produite par la peau sous l'influence des UVB.
+2.  2.  **Indications :**
+        *   Traitement et prévention des carences en vitamine D.
+        *   Ostéomalacie, rachitisme.
+        *   Prévention chez les personnes âgées, à peau foncée ou peu exposées au soleil.
+
+**2. Formes Pharmaceutiques et Posologie**
+
+1.  1.  **Formes :** Ampoules buvables et injectables.
+2.  2.  **Posologie :** Variable selon l'âge, l'état de santé et la carence.  Suivre strictement la prescription médicale. Les dosages élevés sont souvent en injections, surveillés par le médecin.
+
+**3. Pharmacocinétique**
+
+1.  1.  **Absorption :** Variable selon la voie d'administration et la présence de lipides.
+2.  2.  **Stockage :** Stocké dans les tissus adipeux.
+
+**4. Effets Indésirables et Contre-indications**
+
+1.  1.  **Effets Indésirables :**
+        *   **Hypercalcémie :** Nausées, vomissements, constipation, douleurs abdominales, faiblesse musculaire.
+        *   Surveiller attentivement, surtout avec les fortes doses.
+2.  2.  **Contre-indications :** Hypercalcémie et hypervitaminose D.
+
+**5. Interactions Médicamenteuses**
+
+*   **Prudence avec :**
+    *   Diurétiques thiazidiques (risque d'hypercalcémie).
+    *   Digitaliques (risque de troubles du rythme cardiaque).
+
+**6. Aspects Réglementaires et Légalaires en Officine**
+
+1.  1.  **Prescription :** Prescription médicale obligatoire pour la plupart des formulations - notamment les injections.
+2.  2.  **Dispensation :** Délivrance sur ordonnance valide.
+3.  3.  **Remboursement :** Soumis aux conditions de l'ordonnance et aux recommandations de l'Assurance Maladie.
+4.  4.  **Recommandations ANSM :** Respecter les directives d'étiquetage pour les ampoules injectables afin de limiter les erreurs médicamenteuses.
+5.  5.  **Médicaments de Médication Officinale :** Les dosages en ampoules nécessitent une prescription, malgré la présence de vitamine D dans certains médicaments d’automédication.
+
+**7. Conseils Pratiques pour la Dispensation et le Conseil au Patient**
+
+1.  1.  **Dispensation :**
+        *   Vérifier l'ordonnance : dosage, posologie, durée, et adéquation.
+        *   Vérifier l'absence d'allergies ou de contre-indications.
+        *   S'assurer de la compréhension de la posologie et du mode d'administration par le patient.
+2.  2.  **Conseils au Patient :**
+        *   Expliquer l'importance de la vitamine D.
+        *   Mode d'administration : (ampoules buvables : pures ou diluées, injections : explication de la technique si auto-administration).
+        *   Moment de la prise : Respecter la prescription.
+        *   Effets indésirables : Signes d'alerte de l'hypercalcémie (nausées, vomissements, constipation...) et nécessité de consulter.
+        *   Mesures d'accompagnement : Exposition solaire modérée, alimentation riche en vitamine D.
+        *   Importance du suivi et de la surveillance médicale.
+        *   Informer le médecin des autres traitements en cours.
+
+**8. Gestion des Stocks**
+
+*   Stocker à l'abri de la lumière et de l'humidité, respectant les conditions de conservation.
+*   Vérifier les dates de péremption et rotation des stocks.
+*   Appliquer les recommandations ANSM concernant l'étiquetage.
+
+**9. Points de Vigilance et Sécurité Patient**
+
+1.  1.  **Surdosage :** Risque d'hypercalcémie, complications possibles (insuffisance rénale, troubles cardiaques).
+2.  2.  **Populations à risque :** Personnes âgées, insuffisants rénaux, femmes enceintes/allaitantes, patients sous digitaliques.
+3.  3.  **Interactions Médicamenteuses :**
+        *   Diurétiques thiazidiques.
+        *   Glucocorticoïdes (diminution de l'efficacité).
+        *   Médicaments contre l’épilepsie (phénytoïne, phénobarbital).
+4.  4.  **Erreurs Médicamenteuses :** Vigilance accrue pour les ampoules injectables (respect de la règle des 5B et recommandations ANSM).
+5.  5.  **Suivi Médical :** Souligner l'importance du suivi et des examens sanguins.
+
+**10. Sources et Références**
+
+*   ANSM - Actualités : [https://ansm.sante.fr/actualites/etiquetage-des-ampoules-et-autres-petits-conditionnements-de-solutions-injectables-de-medicaments-actualisation-de-la-recommandation-pour-limiter-le-risque-derreur-medicamenteuse](https://ansm.sante.fr/actualites/etiquetage-des-ampoules-et-autres-petits-conditionnements-de-solutions-injectables-de-medicaments-actualisation-de-la-recommandation-pour-limiter-le-risque-derreur-medicamenteuse)
+*   ANSM (Accueil) : [https://ansm.sante.fr](https://ansm.sante.fr)
+*   ANSM - Décision du 14/11/2023 : [https://ansm.sante.fr/actualites/decision-du-14-11-22023-modification-de-la-liste-des-medicaments-de-medication-officinale-mentionnee-a-larticle-r-5121-202-du-code-de-la-sante-publique](https://ansm.sante.fr/actualites/decision-du-14-11-22023-modification-de-la-liste-des-medicaments-de-medication-officinale-mentionnee-a-larticle-r-5121-202-du-code-de-la-sante-publique)
+*   HAS (Prise en charge de l'hémochromatose) : [https://www.has-sante.fr/jcms/c_432802/fr/prise-en-charge-de-l-hemochromatose-liee-au-gene-hfe-hemochromatose-de-type-1](https://www.has-sante.fr/jcms/c_432802/fr/prise-en-charge-de-l-hemochromatose-liee-au-gene-hfe-hemochromatose-de-type-1)
+*   Vidal (Informations pharmacologiques).
+*   RCP (Résumés des Caractéristiques du Produit).
+*   Connaissances générales en pharmacologie et thérapeutique.

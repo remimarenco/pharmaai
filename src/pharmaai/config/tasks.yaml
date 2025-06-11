@@ -61,20 +61,22 @@ tache_analyse_clinique_et_synthese:
 
 tache_formulation_pedagogique_reponse:
   description: >
-    S'approprier la synthèse clinique structurée fournie par la tâche précédente.
-    Reformuler intégralement ces informations en français, en adoptant un ton de partage confraternel et d'expertise pratique.
-    Votre mission est de transformer chaque section de la synthèse technique (`Synthèse Clinique`, `Contexte Réglementaire`, etc.)
-    en un discours fluide, engageant et directement actionnable pour un pharmacien découvrant l'officine.
-    L'accent doit être mis sur le "pourquoi" et le "comment" pratique, plutôt que sur la simple répétition des faits.
-    Le ton doit être celui d'un collègue expérimenté qui guide un pair avec respect, clarté et pragmatisme.
-    Intégrez les références aux sources d'information de manière naturelle dans le texte ou dans une section dédiée à la fin.
-    Pour chaque source, créez un lien hypertexte au format Markdown : [Titre de la source](URL).
+    S'approprier la synthèse clinique structurée fournie.
+    Votre mission est de la transformer en une **fiche pratique** professionnelle, clairement structurée pour
+    une consultation rapide (par exemple, pour être imprimée et affichée).
+    
+    Vous devez impérativement :
+    1.  Créer un titre principal clair pour la fiche.
+    2.  Débuter par un encadré ou une section "Points Clés à Retenir" qui résume en 3 ou 4 points les informations les plus cruciales (ex: changements de réglementation, alertes de sécurité majeures).
+    3.  Conserver une structure avec des titres et sous-titres clairs et numérotés pour chaque section.
+    4.  Utiliser systématiquement des listes à puces pour toutes les énumérations (ex: listes de vérifications, points de vigilance) afin de maximiser la lisibilité.
+    5.  Adopter le ton défini par votre profil : professionnel, didactique, respectueux et encourageant, sans familiarité excessive.
+    6.  Intégrer les liens vers les sources dans une section finale "Sources et Références".
   expected_output: >
-    La réponse finale, prête à être partagée. Elle doit être exhaustive, cliniquement exacte, et parfaitement formatée en Markdown.
-    La structure doit être claire (par exemple en reprenant les titres de sections de la synthèse mais de manière plus littéraire)
-    et le ton doit être celui d'un mentor confraternel : précis, constructif et respectueux.
-    La réponse doit impérativement inclure une section "Pour aller plus loin / Sources"
-    listant les références avec des liens hypertextes Markdown fonctionnels.
+    Une fiche pratique finale, au format Markdown, prête à être partagée.
+    Le document doit être impeccablement structuré avec un titre, un résumé des points clés, des sections
+    numérotées et des listes à puces pour une lisibilité optimale. Le ton est professionnel et pédagogique.
+    La fiche inclut une section de références avec des liens hypertextes fonctionnels.
   agent: 'pharmacien_pedagogue'
   context:
     - 'tache_analyse_clinique_et_synthese'
