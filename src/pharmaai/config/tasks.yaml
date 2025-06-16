@@ -3,80 +3,52 @@
 tache_recherche_information:
   description: >
     À partir de la question suivante qui sera fournie en entrée : '{question_pharmacienne}' et sachant la date actuelle : '{current_datetime}'
-    Mener une recherche approfondie et ciblée en utilisant l'outil de recherche Exa.
+    Mener une recherche approfondie et ciblée en utilisant l'outil de recherche EXASearchTool.
     Vous devez impérativement prioriser les informations provenant des sources françaises
-    officielles et reconnues telles que :
+    officielles et reconnues listées ci-dessous, et ignorer toute autre source non professionnelle.
     - l'ANSM (https://ansm.sante.fr/)
     - la HAS (https://has-sante.fr/)
     - le Vidal (https://www.vidal.fr/)
     - La base de données sur les médicaments commercialisés en France, Thesorimed (https://theso.prod-un.thesorimed.org/),
     - la Base de données publique des médicaments (https://base-donnees-publique.medicaments.gouv.fr/)
-    - le site de l'Ordre National des Pharmaciens (https://www.ordre.pharmacien.fr/)
-    - Meddispar (https://www.meddispar.fr/)
-    - Ameli pour pharmacien (https://www.ameli.fr/bas-rhin/pharmacien)
+    - Meddispar (https://www.meddispar.fr/) 
     - ainsi que les articles de revues professionnelles pertinentes (par exemple, Le Moniteur des Pharmacies => https://www.lemoniteurdespharmacies.fr/).
-    Ne prenez en compte aucune autre sources, pas de journalisme qui ne fait pas partie de professionnels de pharmacie.
-    Votre mission est de collecter les données factuelles, les recommandations en vigueur,
-    les points de vigilance essentiels et les aspects réglementaires spécifiques à la question posée.
+    Ne prenez en compte aucune autre sources qui ne fasse pas partie de professionnels de santé, pas de journalisme.
+    Pour chaque recherche, inclure tous les domaines ci-dessus dans le paramètre "include_domains" de l'outil EXASearchTool.
+    Si d'autres sites/domaines vous semblent pertinent, ajoutez les en respectant le fait de ne pas prendre prendre n'importe quelle source en compte.
+    Ne pas inclure le nom du domaine (par exemple HAS) dans la requête elle-même, le paramètre "include_domains" le prends déjà en compte.
+    Votre mission est de collecter les données factuelles, les recommandations en vigueur, les points de vigilance essentiels et les aspects réglementaires spécifiques à la question posée.
   expected_output: >
     Un rapport de recherche structuré, intégralement rédigé en français, contenant :
     1.  Un résumé des 3 à 5 points d'information les plus cruciaux trouvés.
     2.  Une liste détaillée des faits, données et recommandations extraits.
-    3.  Une liste des sources sous forme de liste Markdown, avec pour chaque source son titre et son URL entière d'accès, comme suit :
-        - Titre de la source 1: https://www.site.fr/
-        - Titre de la source 2: https://www.deuxieme_site.fr/
+    3.  Une liste des sources avec titre et URL complète (format : - Titre: https://...).
     Ce format structuré est essentiel pour l'analyse par l'agent expert.
   agent: 'pharmacien_chercheur'
 
 tache_analyse_clinique_et_synthese:
   description: >
-    Analyser de manière exhaustive et critique le rapport de recherche structuré fourni par la tâche précédente.
-    Valider avec rigueur l'exactitude et la pertinence des informations recueillies dans le contexte
-    spécifique de la pratique en pharmacie d'officine en France.
-    Synthétiser l'ensemble de ces données validées pour formuler une réponse technique complète,
-    précise et directement applicable.
-    Votre analyse doit être organisée selon la structure thématique définie dans l'expected_output.
-    Pour chaque affirmation ou recommandation clé, vous devez indiquer entre parenthèses la source
-    principale (ex: "Selon la HAS", "D'après le Vidal"), ce qui permettra à l'agent pédagogue de créer les liens hypertextes.
+    Analyser le rapport de recherche. Enrichissez-le avec votre expertise clinique, validez, ajoutez ou
+    retirez des informations pour produire un compte-rendu complet et factuel.
+    Rédigez un texte brut, logiquement structuré avec des paragraphes clairs.
+    Identifiez au début 3-4 points clés essentiels.
   expected_output: >
-    Un document de synthèse clinique, rédigé en français, structuré impérativement comme suit :
-
-    **## Synthèse Clinique Clé**
-    *Analyse des aspects pharmacologiques, thérapeutiques et des recommandations de bonne pratique.*
-
-    **## Contexte Réglementaire et Légal**
-    *Analyse des règles de prescription, de dispensation, de remboursement et autres spécificités légales.*
-
-    **## Conseils Pratiques pour l'Officine**
-    *Conseils concrets pour la dispensation, la communication avec le patient, la gestion des stocks ou tout autre aspect pratique au comptoir.*
-
-    **## Points de Vigilance et Sécurité Patient**
-    *Identification claire des risques, interactions médicamenteuses majeures, contre-indications et effets indésirables à surveiller.*
-
-    **## Sources Principales**
-    *Liste des URLs des sources les plus importantes utilisées pour construire cette synthèse, reprises du rapport du chercheur.*
+    Un texte contenant l'analyse clinique complète.
+    Le document doit commencer par une section "POINTS CLES:" listant les points les plus importants,
+    suivie du corps de l'analyse. Inclure une liste simple des URLs des sources à la fin.
   agent: 'pharmacien_expert_clinique'
   context:
     - 'tache_recherche_information'
 
 tache_formulation_pedagogique_reponse:
   description: >
-    S'approprier la synthèse clinique structurée fournie.
-    Votre mission est de la transformer en une **fiche pratique** professionnelle, clairement structurée pour
-    une consultation rapide (par exemple, pour être imprimée et affichée).
-    
-    Vous devez impérativement :
-    1.  Créer un titre principal clair pour la fiche.
-    2.  Débuter par un encadré ou une section "Points Clés à Retenir" qui résume en 3 ou 4 points les informations les plus cruciales (ex: changements de réglementation, alertes de sécurité majeures).
-    3.  Conserver une structure avec des titres et sous-titres clairs et numérotés pour chaque section.
-    4.  Utiliser systématiquement des listes à puces pour toutes les énumérations (ex: listes de vérifications, points de vigilance) afin de maximiser la lisibilité.
-    5.  Adopter le ton défini par votre profil : professionnel, didactique, respectueux et encourageant, sans familiarité excessive.
-    6.  Intégrer les liens vers les sources dans une section finale "Sources et Références".
+    Prendre le compte-rendu clinique brut de l'expert. Réécrire intégralement le texte pour qu'il soit
+    parfaitement clair, didactique et adapté à un pharmacien débutant. Le ton doit être professionnel,
+    encourageant et respectueux.
   expected_output: >
-    Une fiche pratique finale, au format Markdown, prête à être partagée.
-    Le document doit être impeccablement structuré avec un titre, un résumé des points clés, des sections
-    numérotées et des listes à puces pour une lisibilité optimale. Le ton est professionnel et pédagogique.
-    La fiche inclut une section de références avec des liens hypertextes fonctionnels.
+    Le texte final, intégralement rédigé en français, prêt pour la mise en forme.
+    Il doit conserver la section "POINTS CLES:" au début et la liste des sources à la fin.
+    Il ne doit absolument pas contenir le "```markdown" délimitant du markdown, le markdown brut suffit.
   agent: 'pharmacien_pedagogue'
   context:
     - 'tache_analyse_clinique_et_synthese'
