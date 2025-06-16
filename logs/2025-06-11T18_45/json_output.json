@@ -1,0 +1,5 @@
+{
+  "error": "No JSON output found in the final task.",
+  "exception": "No JSON output found in the final task. Please make sure to set the output_json property in the final task in your crew.",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Remi Marenco\\Documents\\Projects\\PharmAI\\crewai\\pharmaai\\src\\pharmaai\\crew.py\", line 114, in log_crew_output\n    json_dict = crew_output.json\n                ^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Remi Marenco\\Documents\\Projects\\PharmAI\\crewai\\pharmaai\\.venv\\Lib\\site-packages\\crewai\\crews\\crew_output.py\", line 29, in json\n    raise ValueError(\nValueError: No JSON output found in the final task. Please make sure to set the output_json property in the final task in your crew.\n"
+}

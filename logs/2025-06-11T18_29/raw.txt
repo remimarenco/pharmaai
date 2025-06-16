@@ -1,0 +1,116 @@
+```markdown
+# Fiche Pratique : Dispensation et Responsabilités en Pharmacie
+
+## Points Clés à Retenir
+
+*   **Responsabilité du Pharmacien :** Le pharmacien est le garant de la qualité et de la sécurité de la dispensation. Il supervise les préparateurs et les étudiants.
+*   **Rôle des Préparateurs :** Les préparateurs assistent le pharmacien dans la préparation et la délivrance, sous la responsabilité du pharmacien.
+*   **Dispensation :** Seuls le pharmacien et les étudiants en pharmacie de 3ème cycle muni d’un certificat de remplacement peuvent dispenser les médicaments. Les préparateurs et étudiants de 3ème année peuvent seconder le pharmacien lors de la dispensation.
+*   **Nouvelle Réglementation Tramadol/Codéine (1er mars 2025) :** Ordonnance sécurisée obligatoire, prescription en toutes lettres, limitation à 12 semaines pour la codéine.
+
+## 1. Introduction
+
+Cette fiche a pour objectif de résumer les points clés concernant les responsabilités de chacun au sein de l'officine, ainsi que les nouvelles réglementations concernant la dispensation des médicaments. Elle est conçue pour faciliter le travail quotidien et améliorer la sécurité des patients.
+
+## 2. Responsabilités et Rôles en Officine
+
+### 2.1. Pharmacien
+
+*   **Garant de la dispensation :** Le pharmacien est responsable de la qualité, de la sécurité et de la conformité de la dispensation.
+*   **Supervision :** Le pharmacien assure une supervision effective du personnel (préparateurs, étudiants).
+*   **Conformité :** Veiller au respect des bonnes pratiques et du code de déontologie.
+
+### 2.2. Préparateurs
+
+*   **Collaboration :** Secondent le pharmacien dans la préparation et la délivrance des médicaments.
+*   **Compétences :** Leur rôle est défini par leurs compétences et qualifications (Brevet Professionnel).
+*   **Délégation :** Les tâches sont déléguées par le pharmacien en fonction de leurs compétences.
+*   **Responsabilité :** Agissent sous la responsabilité et le contrôle effectif du pharmacien.
+
+### 2.3. Étudiants en Pharmacie
+
+*   **Participation :** Peuvent assister le pharmacien sous sa supervision.
+*   **Restrictions :** Les étudiants en 3ème cycle munis d’un certificat de remplacement peuvent dispenser les médicaments.
+*  **3ème année :** Les étudiants de 3ème année peuvent seconder le pharmacien lors de la dispensation.
+
+## 3. Dispensation des Médicaments
+
+*   **Qui peut dispenser ?**
+    *   Les pharmaciens, et les étudiants en pharmacie de 3ème cycle munis d’un certificat de remplacement.
+    *   Les préparateurs, les étudiants de 3ème année *sous la responsabilité et le contrôle effectif du pharmacien*.
+*   **Vérifications systématiques :**
+    *   Lisibilité et conformité de l'ordonnance.
+    *   Posologie et voie d'administration.
+    *   Interactions médicamenteuses.
+    *   Allergies et contre-indications.
+*   **Conseils au patient :**
+    *   Explication claire des instructions.
+    *   Information sur les effets indésirables potentiels.
+    *   Conseils de prise et de conservation.
+
+## 4. Modification de la Prescription de Tramadol et Codéine (à partir du 1er mars 2025)
+
+*   **Ordonnance sécurisée obligatoire :** Pour tous les médicaments contenant du tramadol ou de la codéine (seuls ou en association).
+*   **Prescription en toutes lettres :** Dosage, posologie et durée du traitement.
+*   **Durée de traitement de la codéine :** Limitée à 12 semaines maximum.
+*   **Renouvellement :** Une nouvelle ordonnance est nécessaire pour les traitements de codéine de plus de 12 semaines.
+
+## 5. Organisation et Conseils Pratiques
+
+### 5.1. Organisation du Travail
+
+*   **Procédures claires :** Établir des procédures pour la préparation, la délivrance et le rangement.
+*   **Définition des rôles :** Préciser les responsabilités de chaque membre de l'équipe.
+*   **Outils de suivi :** Utiliser un logiciel officinal et des tableaux de bord pour la gestion des stocks.
+
+### 5.2. Communication et Collaboration
+
+*   **Réunions d'équipe :** Organiser des réunions régulières pour informer et échanger.
+*   **Communication ouverte :** Favoriser une communication claire et constructive.
+*   **Questions et échanges :** Encourager les questions pour améliorer constamment la qualité.
+
+### 5.3. Gestion des Stocks
+
+*   **Système de gestion :** Mettre en place un système efficace pour le contrôle des entrées et sorties.
+*   **Ordonnances sécurisées :** Gérer et conserver les ordonnances sécurisées correctement.
+*   **Préparation anticipée :** Préparer les ordonnances de tramadol et de codéine à l'avance.
+
+## 6. Points de Vigilance
+
+### 6.1. Erreurs de Médication
+
+*   **Contrôle rigoureux :** Mettre en place des procédures de contrôle (nom du médicament, posologie, voie d'administration).
+*   **Double vérification :** Encourager le double contrôle pour les médicaments à risque.
+
+### 6.2. Interactions Médicamenteuses
+
+*   **Vérification systématique :** S'assurer de l'absence d'interactions avec les traitements en cours.
+*   **Logiciels :** Utiliser les logiciels d'aide à la prescription.
+
+### 6.3. Effets Indésirables
+
+*   **Information au patient :** Expliquer les effets indésirables possibles.
+*   **Conseils :** Indiquer les mesures à prendre en cas de réactions indésirables.
+
+### 6.4. Tramadol et Codéine
+
+*   **Risque de dépendance :** Être vigilant et informer les patients.
+*   **Contre-indications :** Vérifier l'absence de contre-indications.
+*   **Surveillance :** Surveiller les signes d'abus ou de dépendance.
+*   **Prévention :** Sensibiliser aux risques liés à l'alcool et aux benzodiazépines.
+
+## 7. Formation Continue
+
+*   **Mise à jour :** Assurer la formation continue de l'équipe.
+*   **Thèmes :** Nouveautés thérapeutiques, modifications réglementaires, bonnes pratiques.
+
+## 8. Conclusion
+
+Cette fiche pratique est un outil pour optimiser la gestion des activités pharmaceutiques au sein de l'officine. En respectant les règles et en assurant une communication efficace, il est possible d'offrir la meilleure prise en charge possible. La connaissance de la législation et la formation continue sont indispensables.
+
+## Sources et Références
+
+*   Ordre National des Pharmaciens : [https://www.ordre.pharmacien.fr/](https://www.ordre.pharmacien.fr/)
+*   Qui peut dispenser les médicaments à l’officine ? : [https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/qui-peut-dispenser-les-medicaments-a-l-officine](https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/qui-peut-dispenser-les-medicaments-a-l-officine)
+*   Report des modifications de prescription / délivrance du tramadol et codéine au 1er mars 2025 : [https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/report-des-modifications-de-prescription-delivrance-du-tramadol-et-codeine-au-1er-mars-2025](https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/report-des-modifications-de-prescription-delivrance-du-tramadol-et-codeine-au-1er-mars-2025)
+```

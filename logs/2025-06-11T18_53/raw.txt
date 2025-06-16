@@ -1,0 +1,72 @@
+```markdown
+## Fiche Pratique : Épilepsie et Grossesse - Recommandations pour le Pharmacien
+
+**Points Clés à Retenir**
+
+*   **Valproate :** Contre-indiqué pendant la grossesse sauf en l'absence d'alternative thérapeutique.
+*   **Planification :** Réévaluation du traitement antiépileptique avant la conception.
+*   **Alternatives :** Privilégier la lamotrigine et le lévétiracétam si possible.
+*   **Surveillance :** Surveillance multidisciplinaire (neurologue, obstétricien, pédiatre) pendant la grossesse.
+
+**1. Introduction**
+
+L'épilepsie et la grossesse représentent un défi thérapeutique en raison des risques potentiels pour le fœtus liés aux traitements antiépileptiques. Cette fiche fournit des recommandations pour la prise en charge au comptoir.
+
+**2. Risques des Antiépileptiques**
+
+*   **Risque tératogène :**
+    *   **Valproate :** Risque élevé de malformations congénitales et de troubles neurodéveloppementaux.
+    *   **Autres :** Topiramate et carbamazépine présentent également des risques importants.
+*   **Interactions médicamenteuses :**
+    *   Diminution de l'efficacité des contraceptifs hormonaux.
+
+**3. Recommandations pour la Prise en Charge Officinale**
+
+*   **3.1. Information et Conseil au Patient**
+
+    *   **Questionnement systématique :** Interroger les femmes en âge de procréer sur leur projet de grossesse lors de la délivrance d'antiépileptiques.
+    *   **Information claire :** Expliquer les risques liés aux antiépileptiques et les alternatives possibles.
+    *   **Supports d'information :** Mettre à disposition des patientes des fiches d'information et brochures.
+    *   **Orientation :** Diriger les patientes vers leur médecin traitant ou neurologue en cas de projet de grossesse.
+*   **3.2. Dispensation et Gestion des Ordonnances**
+
+    *   **Vérification des ordonnances :** Examiner attentivement les ordonnances (âge de la patiente, antiépileptique prescrit).
+    *   **Valproate :** S'assurer de la présence du consentement éclairé et de l'accord de soins annuel.
+    *   **Prescription et renouvellement :** Assurer que ces derniers sont effectués par un spécialiste.
+*   **3.3. Prévention des Erreurs Médicamenteuses**
+
+    *   **Double vérification :** Mettre en place des procédures de double vérification pour la délivrance des antiépileptiques.
+    *   **Communication avec les prescripteurs :** Contacter le prescripteur en cas de doute sur une prescription.
+
+**4. Informations Essentielles pour la Patiente**
+
+*   **Avant la grossesse :**
+    *   Consulter le neurologue pour évaluer le traitement.
+    *   Planifier la grossesse pour optimiser la prise en charge.
+    *   Suppléer en acide folique 400 microgrammes par jour dès le projet de grossesse.
+*   **Pendant la grossesse :**
+    *   Suivi multidisciplinaire : (neurologue, obstétricien, pédiatre).
+    *   Éviter l'automédication.
+    *   Signaler tout symptôme inhabituel.
+*   **Contraception :**
+    *   Informer sur l'efficacité des contraceptifs hormonaux (diminuée par certains antiépileptiques).
+
+**5. Aspects Légaux et Réglementaires**
+
+*   **Valproate :**
+    *   Contre-indiqué pendant la grossesse sauf absence d'alternative.
+    *   Contraception obligatoire et accord de soins annuel.
+*   **Consentement éclairé :** Information des patientes sur les risques et alternatives.
+
+**6. Surveillance et Suivi**
+
+*   **Pendant la grossesse :** Suivi gynéco-obstétrical renforcé (échographies).
+*   **Après la naissance :** Suivi spécifique de l'enfant.
+
+**Sources et Références**
+
+*   ANSM - Dossier thématique - Antiépileptique et grossesse: [https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/antiepileptique-et-grossesse](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/antiepileptique-et-grossesse)
+*   ANSM - Dossier thématique - Médicaments et grossesse: [https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse)
+*   HAS – Filles, adolescentes, femmes en âge de procréer et femmes enceintes ayant une épilepsie : spécialités à base de valproate et alternatives médicamenteuses: [https://www.has-sante.fr/jcms/c_2882733/fr/filles-adolescentes-femmes-en-age-de-procreer-et-femmes-enceintes-ayant-une-epilepsie-specialites-a-base-de-valproate-et-alternatives-medicamenteuses](https://www.has-sante.fr/jcms/c_2882733/fr/filles-adolescentes-femmes-en-age-de-procreer-et-femmes-enceintes-ayant-une-epilepsie-specialites-a-base-de-valproate-et-alternatives-medicamenteuses)
+*   HAS - Projet de grossesse : informations, messages de prévention, examens à proposer - fiche de synthèse: [https://has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf](https://has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)
+```

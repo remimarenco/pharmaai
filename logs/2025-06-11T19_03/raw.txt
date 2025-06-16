@@ -1,0 +1,98 @@
+# Fiche Pratique : Épilepsie et Grossesse en Pharmacie
+
+**Points Clés à Retenir :**
+
+*   **Valproate :** Contre-indiqué pendant la grossesse. Un suivi rigoureux des grossesses est obligatoire.
+*   **Acide folique :** Recommandé à 400 µg/jour dès le projet de grossesse et jusqu'à la 12e semaine d'aménorrhée.
+*   **Choix des alternatives :** Privilégier la lamotrigine pour l'épilepsie focale et généralisée. Le lévétiracétam est une alternative.
+*   **Vaccination COVID-19 :** Fortement recommandée chez les femmes enceintes par vaccin à ARNm.
+
+1.  **Introduction**
+
+    La prise en charge de l'épilepsie chez la femme enceinte nécessite une approche spécifique et multidisciplinaire, impliquant une adaptation thérapeutique et un suivi rigoureux. Cette fiche vise à guider le pharmacien dans la dispensation et le conseil pharmaceutique.
+
+2.  **Réévaluation et Adaptation du Traitement**
+
+    *   Dès le projet de grossesse ou la découverte de la grossesse, une réévaluation du traitement antiépileptique par un spécialiste (neurologue) est impérative.
+    *   L'objectif est d'envisager l'arrêt du traitement ou l'utilisation d'alternatives plus sûres pour le fœtus.
+
+3.  **Antiépileptiques et Risques**
+    *   **Valproate :** Fortement tératogène. Contre-indiqué pendant la grossesse, sauf en cas d'inefficacité des alternatives ou d'intolérance.
+    *   **Alternatives (faible risque) :** Lamotrigine et lévétiracétam.
+    *   **Autres antiépileptiques (risque accru) :** Topiramate, carbamazépine, phénobarbital, primidone, et (fos)phénytoïne.
+
+4.  **Acide Folique : Recommandations**
+
+    *   **Dosage :** 400 microgrammes par jour.
+    *   **Période :** Dès le projet de grossesse et jusqu'à la 12e semaine d'aménorrhée.
+    *   **Objectif :** Réduire le risque d'anomalies du tube neural.
+
+5.  **Conseils au Patient en Officine**
+
+    *   **Avant la grossesse :**
+        *   Informer la patiente de l'importance de consulter un médecin avant toute grossesse.
+        *   Conseiller la prise d'acide folique (400 µg/jour) dès le projet de grossesse.
+        *   S’assurer de l’efficacité de la contraception choisie.
+    *   **Lors de la dispensation :**
+        *   Vérifier l'absence de valproate chez les femmes enceintes.
+        *   Questionner sur une grossesse et l'inciter à informer rapidement son médecin en cas de grossesse.
+        *   Informer sur la vaccination COVID-19 par vaccin à ARNm.
+        *   Fournir aux patientes les informations concernant le programme de prévention des grossesses (pour les patientes sous valproate)
+    *   **Information :**
+        *   Expliquer les bénéfices et les risques de la vaccination COVID-19 et de la non-vaccination.
+        *   Conseiller la prise d'acide folique (400 µg/jour) dès le projet de grossesse et jusqu'à la 12e semaine d'aménorrhée.
+
+6.  **Réglementation et Aspects Légaux**
+
+    *   **Valproate :** Utilisation soumise à des restrictions strictes (programme de prévention des grossesses).
+    *   **Médicaments hors AMM :** Justification requise.
+    *   **Remboursement :** Règles de droit commun.
+    *   **Déclaration de grossesse :** Information de l'assurance maladie et de la CAF.
+
+7.  **Points de Vigilance en Officine**
+
+    *   **Ordonnances :**
+        *   Vérifier attentivement les traitements prescrits. Contacter le médecin en cas de doute.
+        *   S'assurer de la mention "grossesse" sur l'ordonnance si nécessaire.
+    *   **Médicaments :**
+        *   S'assurer de disposer des alternatives thérapeutiques au valproate (lamotrigine, lévétiracétam).
+        *   Gérer les stocks d'acide folique.
+    *   **Conseil :**
+        *   Informer sur les effets indésirables potentiels des antiépileptiques.
+        *   Insister sur l'importance du suivi multidisciplinaire (neurologue, obstétricien).
+        *   Informer systématiquement sur la vaccination contre la COVID-19.
+
+8.  **Interactions Médicamenteuses**
+
+    *   Vérifier les interactions potentielles des antiépileptiques avec d'autres médicaments.
+
+9.  **Recommandations de suivi**
+
+    *   Dépistage anténatal des malformations (diagnostic anténatal)
+    *   Suivi multidisciplinaire de la grossesse (neurologue, obstétricien...)
+
+10. **Vaccination contre la COVID-19**
+    *   Vaccination contre la COVID-19 par vaccin à ARNm est fortement recommandée pour les femmes enceintes, quel que soit le trimestre de grossesse.
+    *   Assurer une communication transparente sur les bénéfices et les risques potentiels, en s'appuyant sur les recommandations en vigueur.
+
+11. **Gestion des Stocks**
+
+    *   S'assurer de disposer des alternatives thérapeutiques au valproate, notamment la lamotrigine et le lévétiracétam.
+    *   Gérer les stocks d'acide folique, et s'assurer des conseils associés.
+
+12. **Communication**
+
+    *   Établir une communication ouverte avec les patients et les professionnels de santé, en particulier les médecins et les spécialistes en neurologie et gynécologie.
+    *   Afficher des affiches informatives sur la grossesse, le rôle de l'acide folique, et la vaccination.
+
+13. **Formulaires d'accord de soins (valproate):**
+
+    *   S'assurer de la conformité du programme de prévention des grossesses.
+
+## Sources et Références
+
+*   ANSM - Dossier thématique - Antiépileptiques et grossesse : [https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/antiepileptique-et-grossesse](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/antiepileptique-et-grossesse)
+*   ANSM - Dossier thématique - Médicaments et grossesse : [https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse)
+*   ANSM - Dossier thématique - Vaccins contre le Covid-19 et femmes enceintes : [https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-et-femmes-enceintes](https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-et-femmes-enceintes)
+*   HAS - Filles, adolescentes, femmes en âge de procréer et femmes enceintes ayant une épilepsie : spécialités à base de valproate et alternatives médicamenteuses : [https://www.has-sante.fr/jcms/c_2882733/fr/filles-adolescentes-femmes-en-age-de-procreer-et-femmes-enceintes-ayant-une-epilepsie-specialites-a-base-de-valproate-et-alternatives-medicamenteuses](https://www.has-sante.fr/jcms/c_2882733/fr/filles-adolescentes-femmes-en-age-de-procreer-et-femmes-enceintes-ayant-une-epilepsie-specialites-a-base-de-valproate-et-alternatives-medicamenteuses)
+*   HAS - Projet de grossesse informations, messages de prévention, examens à proposer - fiche de synthèse : [https://has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf](https://has-sante.fr/upload/docs/application/pdf/2010-01/projet_de_grossesse_informations_messages_de_prevention_examens_a_proposer_-_fiche_de_synthese.pdf)

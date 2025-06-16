@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2025-06-12 15:29:39",
+        "task_name": "tache_recherche_information",
+        "task": "\u00c0 partir de la question suivante qui sera fournie en entr\u00e9e : 'Quelle est la proc\u00e9dure \u00e0 tenir en cas d'interaction de contre-indication ou d'association d\u00e9conseill\u00e9e ?' et sachant la date actuelle : '2025-06-12 15:29:39.921707' Mener une recherche approfondie et cibl\u00e9e en utilisant l'outil de recherche Exa. Vous devez imp\u00e9rativement prioriser les informations provenant des sources fran\u00e7aises officielles et reconnues list\u00e9es ci-dessous, et ignorer toute autre source non professionnelle. - l'ANSM (https://ansm.sante.fr/) - la HAS (https://has-sante.fr/) - le Vidal (https://www.vidal.fr/) - La base de donn\u00e9es sur les m\u00e9dicaments commercialis\u00e9s en France, Thesorimed (https://theso.prod-un.thesorimed.org/), - la Base de donn\u00e9es publique des m\u00e9dicaments (https://base-donnees-publique.medicaments.gouv.fr/) - Meddispar (https://www.meddispar.fr/)  - ainsi que les articles de revues professionnelles pertinentes (par exemple, Le Moniteur des Pharmacies => https://www.lemoniteurdespharmacies.fr/). Ne prenez en compte aucune autre sources, pas de journalisme qui ne fait pas partie de professionnels de pharmacie. Votre mission est de collecter les donn\u00e9es factuelles, les recommandations en vigueur, les points de vigilance essentiels et les aspects r\u00e9glementaires sp\u00e9cifiques \u00e0 la question pos\u00e9e.\n",
+        "agent": "Pharmacien Chercheur et Veille R\u00e9glementaire",
+        "status": "started"
+    }
+]

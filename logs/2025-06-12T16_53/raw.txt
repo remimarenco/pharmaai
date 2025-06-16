@@ -1,0 +1,26 @@
+# Levothyrox : Conseils et points de vigilance à l'officine
+
+> #### Points Clés à Retenir
+> * Surveillance de la TSH chez les patients sous Levothyrox, particulièrement lors d'un changement de formule.
+> * Importance du dépistage de l'hypothyroïdie chez la femme enceinte ou ayant un projet de grossesse.
+> * Suivi rigoureux de la TSH pendant la grossesse avec adaptation posologique si nécessaire.
+
+## Levothyrox et nouvelle formule
+
+Une étude de pharmaco-épidémiologie de l'ANSM n'a pas mis en évidence de toxicité propre de la nouvelle formule du Levothyrox. Cependant, cette étude a souligné les difficultés rencontrées par certains patients. Les enquêtes de pharmacovigilance n'ont quant à elles pas identifié de patients à risque particulier.
+
+### Impact du changement de formule
+
+*   Augmentation des dosages de TSH suite au passage à la nouvelle formule.
+*   Augmentation des consultations médicales et de l'utilisation de benzodiazépines.
+*   Profil d'effets indésirables similaire à l'ancienne formule, mais fréquence de signalement inattendue.
+
+## Hypothyroïdie et Grossesse
+
+Un dépistage ciblé de l'hypothyroïdie est recommandé en cas de grossesse ou de désir de grossesse. La surveillance de la TSH est essentielle pendant toute la grossesse, avec un objectif entre 0,4 et 2,5 mUI/L. Il est important de noter que la liothyronine (LT3) est contre-indiquée pendant la grossesse.
+
+## Sources
+
+*   [Levothyrox et médicaments à base de levothyroxine : rapport final de l'étude de pharmaco-épidémiologie à partir des données du système national des données de santé (SNDS)](https://ansm.sante.fr/actualites/levothyrox-et-medicaments-a-base-de-levothyroxine-rapport-final-de-letude-de-pharmaco-epidemiologie-a-partir-des-donnees-du-systeme-national-des-donnees-de-sante-snds)
+*   [L'ANSM publie les résultats des enquêtes nationales de pharmacovigilance sur les spécialités à base de levothyroxine - Communiqué](https://ansm.sante.fr/actualites/lansm-publie-les-resultats-des-enquetes-nationales-de-pharmacovigilance-sur-les-specialites-a-base-de-levothyroxine-communique)
+*   [Hypothyroïdie de l'adulte](https://www.vidal.fr/maladies/recommandations/hypothyroidie-de-l-adulte-1482.html)

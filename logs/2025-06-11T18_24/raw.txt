@@ -1,0 +1,72 @@
+# Fiche Pratique : La Dispensation Pharmaceutique et la Sécurité des Patients
+
+## Points Clés à Retenir
+
+*   **Responsabilité Pharmaceutique :** Le pharmacien est le seul habilité à dispenser les médicaments (Art. R4235-3 du CSP) et est responsable de chaque étape de la dispensation.
+*   **Collaboration et Délégation :** Les préparateurs assistent le pharmacien, sous sa responsabilité et son contrôle effectif. La délégation doit respecter les compétences.
+*   **Ordonnances Sécurisées :** Obligatoires avec mentions obligatoires pour le tramadol, la codéine et la dihydrocodéine (depuis le 1er mars 2025).
+*   **Durée de Traitement Limitée :** La durée de prescription pour la codéine ou la dihydrocodéine est limitée à 12 semaines, avec diminution progressive de la posologie à l'arrêt.
+
+## 1. Responsabilité et Rôle du Pharmacien titulaire
+
+1.  **Dispensateur Unique :** Le pharmacien est le seul professionnel de santé légalement autorisé à dispenser des médicaments (Art. R4235-3 du CSP).
+    *   Assure la qualité, la sécurité et l'efficacité de la dispensation.
+    *   Est responsable de l'analyse pharmaceutique de l'ordonnance.
+    *   Fournit des conseils personnalisés et adaptés au patient.
+2.  **Supervision et Contrôle :** Le pharmacien doit exercer personnellement ou surveiller attentivement l'exécution des actes professionnels (Art. R. 4235-13 du CSP).
+    *   Supervise les préparateurs et s'assure du respect des procédures.
+    *   Valide chaque étape du processus de dispensation.
+
+## 2. Collaboration avec les Préparateurs en Pharmacie
+
+1.  **Rôle des Préparateurs :** Assistent le pharmacien dans la préparation et la délivrance des médicaments sous sa responsabilité et son contrôle effectif.
+    *   Préparent les ordonnances.
+    *   Délivrent les médicaments.
+    *   Conseillent le patient sous la supervision du pharmacien.
+2.  **Communication et Coordination :**
+    *   Favoriser une communication ouverte et régulière entre le pharmacien et les préparateurs.
+    *   Définir clairement les rôles et responsabilités de chaque membre de l'équipe.
+    *   Mettre en place des procédures de travail standardisées pour sécuriser la dispensation.
+3.  **Qualifications des Préparateurs :**
+    *   Être titulaire du brevet professionnel ou d'une autorisation d'exercice (Art. L. 4241-1 du CSP).
+    *   Les étudiants en pharmacie ayant effectué leur stage officinal peuvent également assister le pharmacien (Art. L. 4241-10 du CSP).
+
+## 3. Ordonnances Sécurisées et Médicaments Opioïdes (Tramadol, Codéine, Dihydrocodéine)
+
+1.  **Obligation Légale (depuis le 1er mars 2025) :** Prescription obligatoire sur ordonnances sécurisées pour les médicaments contenant du tramadol, de la codéine ou de la dihydrocodéine.
+    *   Vérification de la conformité des ordonnances sécurisées.
+    *   S'assurer que les mentions obligatoires sont présentes et complètes.
+2.  **Mentions Obligatoires sur l'Ordonnance Sécurisée :**
+    *   Dosage du médicament.
+    *   Posologie (fréquence et quantité par prise).
+    *   Durée du traitement en toutes lettres.
+3.  **Durée de Traitement et Modalités :**
+    *   Limitation de la durée de traitement pour la codéine ou la dihydrocodéine à 12 semaines.
+    *   Indiquer au patient de diminuer progressivement la posologie jusqu'à l'arrêt complet du traitement.
+4.  **Gestion des Stocks :** Adapter les conditionnements des médicaments prescrits (codéine, dihydrocodéine, tramadol) afin de limiter les risques de surdosage et de respecter la durée de traitement.
+
+## 4. Conseils et Vigilance au Comptoir
+
+1.  **Conseils Patients Systématiques :**
+    *   Expliquer clairement la posologie, la durée du traitement.
+    *   Informer sur la nécessité de respecter les intervalles entre les prises.
+    *   Expliquer les risques d'effets indésirables, particulièrement concernant les médicaments à base de codéine, dihydrocodéine et tramadol.
+    *   Informer rapidement les patients des recommandations de diminution progressive de la posologie jusqu’à l’arrêt.
+2.  **Vigilance et Prévention :**
+    *   Risques liés aux médicaments opioïdes : dépendance, mésusage.
+    *   Vérification rigoureuse des ordonnances : conformité des ordonnances sécurisées.
+    *   Interactions médicamenteuses et contre-indications : vérifier les interactions avec d'autres médicaments et les contre-indications connues, notamment en cas de troubles respiratoires ou de consommation d'alcool pour les médicaments opioïdes. Se référer au Vidal ou aux recommandations de l'ANSM pour des informations détaillées.
+3.  **Formation et Mise à Jour :**
+    *   Former régulièrement le personnel sur les réglementations en vigueur.
+    *   Mettre à jour les connaissances sur les bonnes pratiques de dispensation.
+4.  **Surveillance des Effets Indésirables :**
+    *   Informer les patients des effets secondaires possibles.
+    *   Encourager les patients à signaler tout effet indésirable.
+
+## Sources et Références
+
+*   Ordre National des Pharmaciens : [https://www.ordre.pharmacien.fr/](https://www.ordre.pharmacien.fr/)
+*   Qui peut dispenser les médicaments à l’officine ? : [https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/qui-peut-dispenser-les-medicaments-a-l-officine](https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/qui-peut-dispenser-les-medicaments-a-l-officine)
+*   Report des modifications de prescription / délivrance du tramadol et codéine au 1er mars 2025 : [https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/report-des-modifications-de-prescription-delivrance-du-tramadol-et-codeine-au-1er-mars-2025](https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/report-des-modifications-de-prescription-delivrance-du-tramadol-et-codeine-au-1er-mars-2025)
+*   AMELI - pour les pharmaciens : [https://www.ameli.fr/pyrenees-orientales/pharmacien](https://www.ameli.fr/pyrenees-orientales/pharmacien)
+*   Code de la Santé Publique (CSP) : Articles R4235-3, L. 4241-1, L. 4241-10, R. 4235-13 du CSP.

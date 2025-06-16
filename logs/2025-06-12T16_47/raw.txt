@@ -1,0 +1,61 @@
+```markdown
+# Gestion des Interactions Médicamenteuses en Officine
+
+> #### Points Clés à Retenir
+> * Identifier les niveaux de contrainte des interactions médicamenteuses.
+> * Adapter la conduite à tenir selon le niveau de contrainte et les recommandations.
+> * Vérifier les interactions impliquant les cytochromes P450.
+
+## Niveaux de Contrainte des Interactions Médicamenteuses
+
+Les interactions médicamenteuses sont classées selon quatre niveaux de contrainte, chacun nécessitant une approche spécifique à l'officine.
+
+### Contre-indication
+
+* La contre-indication est absolue et ne doit jamais être transgressée.
+
+### Association Déconseillée
+
+* L'association déconseillée doit être évitée sauf après un examen approfondi du rapport bénéfice/risque par le médecin. Elle implique une surveillance accrue du patient.
+
+### Précaution d'Emploi
+
+* L'association est possible si les recommandations spécifiques sont respectées, comme l'adaptation posologique ou la surveillance clinique et biologique.
+
+### A prendre en compte
+
+* Ce niveau signale un risque potentiel, souvent une addition d'effets indésirables. Une évaluation médicale de l'opportunité de l'association est nécessaire.
+
+## Gestion des Interactions et Cytochromes P450 (CYP)
+
+Les cytochromes P450 (CYP) sont des enzymes clés dans le métabolisme des médicaments. L'inhibition ou l'induction de ces enzymes peut significativement affecter les concentrations plasmatiques des médicaments associés.
+
+### Identification des Voies Métaboliques
+
+* L'Autorisation de Mise sur le Marché (AMM) doit identifier les voies métaboliques et les enzymes impliquées, ainsi que le potentiel inhibiteur ou inducteur d'un médicament.
+
+### Conduite à tenir en cas d'Induction ou d'Inhibition Enzymatique
+
+* En cas d'association médicamenteuse, vérifier la présence d'inducteurs ou d'inhibiteurs enzymatiques.
+* L'arrêt d'un inducteur ou d'un inhibiteur doit s'accompagner d'un retour à la posologie initiale du médicament associé et d'un suivi rigoureux.
+
+## Conduite à Tenir en Cas de Précaution d'Emploi
+
+En cas de précaution d'emploi, des recommandations simples doivent être mises en œuvre pour minimiser le risque d'interaction.
+
+* Adapter la posologie du médicament concerné selon les recommandations.
+* Effectuer des contrôles biologiques réguliers si nécessaire.
+
+## Conduite à Tenir en Cas d'Interaction "A prendre en compte"
+
+Ce niveau d'interaction signale principalement une addition d'effets indésirables.
+
+* Envisager le recours à d'autres thérapeutiques si l'association présente un risque inacceptable.
+
+## Références
+
+* [Thésaurus des interactions médicamenteuses - ANSM](https://ansm.sante.fr/documents/reference/thesaurus-des-interactions-medicamenteuses-1)
+* [Base de données publique des médicaments (specid=61601542)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=61601542&typedoc=N)
+* [Base de données publique des médicaments (specid=62013296)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?typedoc=N&specid=62013296)
+* [Base de données publique des médicaments (specid=68843466)](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?typedoc=N&specid=68843466)
+```

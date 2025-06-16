@@ -1,0 +1,45 @@
+```markdown
+# Antiépileptiques et Grossesse : Informations Essentielles pour le Pharmacien
+
+> #### Points Clés à Retenir
+> * Réévaluation immédiate du traitement antiépileptique en cas de grossesse
+> * Risques tératogènes et neurodéveloppementaux variables selon l'antiépileptique
+> * Contraception efficace indispensable chez les femmes en âge de procréer sous antiépileptiques
+> * Surveillance prénatale et pédiatrique renforcée pour les enfants exposés in utero
+> * Fortement recommander la vaccination contre la Covid-19 avec un vaccin à ARNm pour les femmes enceintes
+
+## Valproate (Dépakine et génériques, Micropakine, Depakote, Dépamide)
+
+Le valproate présente un risque de malformations congénitales majeures multiplié par 4 à 5 (11% de malformations majeures) et un risque élevé de troubles neurodéveloppementaux (30 à 40% des enfants exposés in utero). Son utilisation est contre-indiquée pendant la grossesse, sauf en l'absence d'alternative thérapeutique appropriée dans l'épilepsie. Un Programme de Prévention des Grossesses est obligatoire, incluant une contraception efficace, un test de grossesse régulier, et un accord de soins signé annuellement.
+
+### Programme de Prévention des Grossesses (Valproate)
+
+* Information de la patiente sur les risques et les options thérapeutiques
+* Test de grossesse avant le début et pendant le traitement
+* Contraception efficace pendant toute la durée du traitement
+* Accord de soins co-signé annuellement
+* Réévaluation régulière du rapport bénéfice/risque
+
+## Autres Antiépileptiques et Risques
+
+*   **Topiramate (Epitomax et génériques)** : Risque de malformations majeures multiplié par 3 et risque accru de troubles neurodéveloppementaux.
+*   **Carbamazépine (Tegretol et génériques)** : Risque de malformations congénitales majeures multiplié par 2 à 3, possible augmentation du risque de troubles neurodéveloppementaux.
+*   **(Fos)Phénytoïne, Phénobarbital, Primidone** : Risque de malformations congénitales majeures multiplié par 2 à 3, données insuffisantes concernant les troubles neurodéveloppementaux.
+*   **Prégabaline (Lyrica et génériques)** : Risque de malformations congénitales majeures multiplié par 1,5.
+*   **Oxcarbazépine (Trileptal et génériques)** : Risque de malformations ne peut être exclu.
+*   **Lamotrigine (Lamictal et génériques), Lévétiracétam (Keppra et génériques)** : Les données disponibles ne mettent pas en évidence d'augmentation du risque de malformations congénitales majeures ou de troubles du neurodéveloppement.
+
+## Conseils Généraux
+
+Il est crucial de ne jamais interrompre ou modifier un traitement antiépileptique sans avis médical. Les patientes doivent informer rapidement leur médecin de tout projet de grossesse ou grossesse en cours. La monothérapie à la plus faible dose efficace doit être privilégiée. Il est important de noter que certains antiépileptiques (carbamazépine, oxcarbazépine, topiramate, phénobarbital, primidone, phénytoïne) peuvent diminuer l'efficacité des contraceptifs hormonaux. Une supplémentation en acide folique pourrait diminuer le risque d'anomalies du tube neural, sans preuve d'efficacité sur les malformations liées au valproate.
+
+## Sources
+
+*   [Dossier thématique - Antiépileptique et grossesse - ANSM](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/antiepileptique-et-grossesse)
+*   [Dossier thématique - Valproate et grossesse - ANSM](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse/valproate-et-grossesse)
+*   [Filles, adolescentes, femmes en âge de procréer et femmes enceintes ayant une épilepsie : spécialités à base de valproate et alternatives médicamenteuses - HAS](https://www.has-sante.fr/jcms/c_2882733/fr/filles-adolescentes-femmes-en-age-de-procreer-et-femmes-enceintes-ayant-une-epilepsie-specialites-a-base-de-valproate-et-alternatives-medicamenteuses)
+*   [Recommandations Épilepsie de l'adulte - VIDAL](https://www.vidal.fr/maladies/recommandations/epilepsie-de-l-adulte-1679.html)
+*   [Les médicaments contre l'épilepsie - VIDAL](https://www.vidal.fr/maladies/systeme-nerveux/epilepsie/medicaments.html)
+*   [Dossier thématique - Médicaments et grossesse - ANSM](https://ansm.sante.fr/dossiers-thematiques/medicaments-et-grossesse)
+*   [Dossier thématique - Vaccins contre le Covid-19 et femmes encei - ANSM](https://ansm.sante.fr/dossiers-thematiques/covid-19-vaccins/covid-19-vaccins-et-femmes-enceintes)
+```

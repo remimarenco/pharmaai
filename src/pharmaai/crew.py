@@ -1,7 +1,8 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
-from typing import List
+from crewai.agents.parser import AgentAction, AgentFinish
+from typing import List, Any
 import os
 import json
 from datetime import datetime
@@ -60,6 +61,7 @@ class Pharmaai():
             config=self.agents_config['pharmacien_pedagogue'],
             verbose=True
         )
+
     # To learn more about structured task outputs,
     # task dependencies, and task callbacks, check out the documentation:
     # https://docs.crewai.com/concepts/tasks#overview-of-a-task
@@ -81,6 +83,34 @@ class Pharmaai():
         return Task(
             config=self.tasks_config['tache_formulation_pedagogique_reponse'],
         )
+
+    def step_callback(self, agent_step: AgentAction | AgentFinish):
+        log_path = self.log_dir / "steps.md"
+
+        with open(log_path, 'a', encoding='utf-8') as f:
+            f.write(f"---\n\n")
+
+            # Handle agent finishing a task
+            if isinstance(agent_step, AgentFinish):
+                f.write(f"## Agent Finish\n\n")
+                f.write(f"**Thought:**\n```\n{agent_step.thought.strip() if agent_step.thought else ''}\n```\n\n")
+                f.write(f"**Output:**\n```\n{agent_step.output.strip() if agent_step.output else ''}\n```\n\n")
+                f.write(f"**Text:**\n```\n{agent_step.text.strip() if agent_step.text else ''}\n```\n\n")
+                return
+
+            # Handle agent taking an action
+            if isinstance(agent_step, AgentAction):
+                f.write(f"## Agent Action\n\n")
+                f.write(f"**Thought:**\n```\n{agent_step.thought.strip() if agent_step.thought else ''}\n```\n\n")
+                f.write(f"**Action:** `{agent_step.tool}`\n\n")
+                tool_input = agent_step.tool_input
+                if isinstance(tool_input, dict):
+                    tool_input = json.dumps(tool_input, indent=2, ensure_ascii=False)
+                f.write(f"**Action Input:**\n```\n{tool_input}\n```\n\n")
+                return
+
+            # Fallback for any other type (should ideally not be reached if typing is correct)
+            f.write(f"## Unknown Step\n\n")
 
     @after_kickoff
     def log_crew_output(self, crew_output, **kwargs):
@@ -137,5 +167,7 @@ class Pharmaai():
             tasks=self.tasks, # Automatically created by the @task decorator
             process=Process.sequential,
             verbose=True,
+            output_log_file=str(output_log_file),
+            step_callback=self.step_callback
             # process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
         )
