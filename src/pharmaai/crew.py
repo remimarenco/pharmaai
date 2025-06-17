@@ -44,22 +44,19 @@ class Pharmaai():
 
         return Agent(
             config=self.agents_config['pharmacien_chercheur'],
-            tools=[EXASearchTool(api_key=exa_api_key, content=True)],
-            verbose=True
+            tools=[EXASearchTool(api_key=exa_api_key, content=True)]
         )
 
     @agent
     def pharmacien_expert_clinique(self) -> Agent:
         return Agent(
             config=self.agents_config['pharmacien_expert_clinique'],
-            verbose=True
         )
 
     @agent
     def pharmacien_pedagogue(self) -> Agent:
         return Agent(
             config=self.agents_config['pharmacien_pedagogue'],
-            verbose=True
         )
 
     # To learn more about structured task outputs,
