@@ -2,112 +2,100 @@
 
 tache_recherche_information:
   description: >
-    MISSION : Rechercher des informations fiables sur la question pharmaceutique suivante :
-    '{question_pharmacienne}'
+    MISSION : Effectuer une recherche documentaire approfondie et fiable sur la
+    question posée par l'utilisateur, quel que soit le sujet (clinique, réglementaire,
+    pratique...).
     
+    Question initiale de l'utilisateur : '{question_pharmacienne}'
     Date de recherche : {current_datetime}
     
     MÉTHODOLOGIE DE RECHERCHE :
-    1. Utiliser l'outil EXASearchTool avec les domaines prioritaires suivants :
-       - ansm.sante.fr (ANSM - Agence nationale de sécurité du médicament)
-       - has-sante.fr (HAS - Haute Autorité de Santé)
-       - vidal.fr (Vidal - référence médicamenteuse)
-       - base-donnees-publique.medicaments.gouv.fr (Base publique des médicaments)
-       - theso.prod-un.thesorimed.org (Thesorimed)
-       - meddispar.fr (Meddispar)
-       - lemoniteurdespharmacies.fr (Le Moniteur des Pharmacies)
+
+      MÉTHODOLOGIE DE RECHERCHE :
+
+    1.  **IDENTIFICATION DU SUJET :** Analysez la '{question_pharmacienne}' pour
+        identifier les mots-clés et le sujet principal. Ce sujet peut être un
+        médicament, un concept réglementaire, une question de pratique, etc.
+
+    2.  **RECHERCHE DOCUMENTAIRE (EXASearchTool) :**
+        - **Domaines :** Pour CHAQUE recherche, utilisez TOUJOURS la liste complète
+          de domaines de confiance.
+            - ansm.sante.fr, has-sante.fr, vidal.fr, legifrance.gouv.fr, ordre.pharmacien.fr,
+              base-donnees-publique.medicaments.gouv.fr, theso.prod-un.thesorimed.org,
+              meddispar.fr, lemoniteurdespharmacies.fr
+        - **Requêtes :** Formulez des requêtes de recherche précises et variées pour
+          couvrir tous les aspects de la question. N'hésitez pas à reformuler si
+          les premiers résultats ne sont pas pertinents.
+        - **Contrôle Qualité :** Ignorez systématiquement les résultats qui ne
+          répondent pas directement au sujet identifié.
     
-    2. Pour chaque recherche, formuler des requêtes précises sans mentionner le nom des sites
-    3. Croiser les informations entre au moins 2 sources officielles
-    4. Privilégier les informations datant de moins de 2 ans
-    5. Identifier spécifiquement les aspects réglementaires et pratiques
+    3. Formulez des requêtes précises sans mentionner le nom des sites.
+    4. Croisez les informations entre au moins 2 sources officielles.
+    5. Identifiez spécifiquement les aspects réglementaires et pratiques.
     
     CRITÈRES DE QUALITÉ :
-    - Exactitude des informations (vérification croisée)
-    - Pertinence pour la pratique officinale
-    - Actualité des données (privilégier le récent)
-    - Complétude de l'information (aspects théoriques ET pratiques)
+    - Exactitude des informations (vérification croisée).
+    - **Pertinence absolue par rapport au "sujet de recherche".**
+    - Actualité des données.
+    - Complétude de l'information (théoriques ET pratiques).
     
-    EXCLUSIONS : Ignorer les sources non professionnelles, blogs personnels, forums,
-    sites commerciaux non officiels.
+    EXCLUSIONS : Ignorer les sources non professionnelles, blogs, forums, et **toute information ne concernant pas le "sujet de recherche" identifié.**
 
   expected_output: >
-    Un rapport de recherche structuré en français comprenant obligatoirement :
-    
-    ## SYNTHÈSE EXÉCUTIVE
-    - 3 à 5 points clés essentiels à retenir
-    
-    ## INFORMATIONS DÉTAILLÉES
-    - Données factuelles avec références précises
-    - Recommandations officielles en vigueur
-    - Points de vigilance réglementaires
-    - Aspects pratiques pour l'officine
-    - Éventuelles évolutions récentes ou à venir
-    
-    ## SOURCES CONSULTÉES
-    - Liste complète : "Titre de l'article/page - URL complète"
-    - Date de consultation
-    - Niveau de fiabilité de chaque source
-    
-    Format : Texte structuré en français, 800-1200 mots maximum.
+    Un rapport de recherche factuel et structuré comme une liste de "faits trouvés".
+    Ce rapport ne doit contenir aucune interprétation ou synthèse, seulement les
+    données brutes collectées. La structure DOIT être la suivante :
+
+    ## RÉSULTATS DE LA RECHERCHE DOCUMENTAIRE
+
+    ### Sujet Principal Identifié
+    - [Indiquer ici le sujet principal que vous avez déduit de la question]
+
+    ### Faits et Données Collectées
+    - **Information Clé 1 :** [Extrait ou résumé de la première information pertinente trouvée.]
+      **Source :** https://ansm.sante.fr/sujet_lie_a_la_question
+
+    - **Information Clé 2 :** [Extrait ou résumé de la deuxième information pertinente trouvée.]
+      **Source :** https://has-sante.fr/autre_sujet_lie_a_la_question
+
+    - **Information Clé 3 :** [Extrait ou résumé de la troisième information pertinente trouvée.]
+      **Source :** https://meddispar.fr/encore_un_autre_sujet_lie_a_la_question
+
+    - [Continuer avec autant d'informations clés que nécessaire pour répondre de manière exhaustive à la question.]
 
   agent: pharmacien_chercheur
 
 tache_analyse_clinique_et_synthese:
   description: >
-    MISSION : Analyser le rapport de recherche fourni et produire une analyse clinique
-    experte adaptée à la pratique pharmaceutique.
-    
-    ANALYSE REQUISE :
-    1. VALIDATION CRITIQUE
-       - Vérifier la cohérence des informations
-       - Identifier les éventuelles contradictions
-       - Évaluer la qualité des sources
-    
-    2. ENRICHISSEMENT CLINIQUE
-       - Ajouter votre expertise pratique
-       - Contextualiser pour l'exercice officinal
-       - Identifier les implications concrètes
-    
-    3. HIÉRARCHISATION
-       - Classer par ordre d'importance clinique
-       - Distinguer l'essentiel du complémentaire
-       - Identifier les points critiques de sécurité
-    
-    4. STRUCTURATION LOGIQUE
-       - Organiser en sections cohérentes
-       - Créer une progression logique
-       - Faciliter la compréhension
-    
-    FOCUS SPÉCIFIQUE :
-    - Implications pour un pharmacien débutant
-    - Situations concrètes d'application
-    - Erreurs à éviter absolument
-    - Conseils pratiques d'application
+    MISSION : Tu reçois un rapport de recherche factuel de la part du documentaliste.
+    Ta mission est de l'analyser, le synthétiser et l'enrichir avec ton expertise
+    pour produire une analyse structurée qui servira de base à la fiche pratique finale.
 
+    INSTRUCTION CLÉ : ADAPTE TON ANALYSE ET TA STRUCTURE.
+    - Si le sujet est **clinique**, ton analyse portera sur les risques, les interactions,
+      les conseils de dispensation, etc.
+    - Si le sujet est **réglementaire ou managérial**, ton analyse portera sur les
+      implications pratiques, les points de procédure, les stratégies de communication, etc.
+
+    Le but est de transformer les "faits bruts" en "intelligence actionnable".
   expected_output: >
-    Une analyse clinique complète en français structurée ainsi :
+    Une note d'analyse structurée et synthétique. La structure (titres, sections)
+    doit être choisie par tes soins pour être la plus pertinente possible par rapport
+    au sujet traité.
+
+    Cette note doit inclure :
+    - Une hiérarchisation des points importants.
+    - Une analyse des implications pratiques pour un pharmacien d'officine.
+    - Des recommandations concrètes ou des points de vigilance.
+
+    Le document doit se terminer OBLIGATOIREMENT par la section suivante,
+    reprenant la liste fournie par l'agent chercheur :
     
-    ## POINTS CLÉS ESSENTIELS
-    - 4 à 5 points critiques à retenir absolument
-    - Hiérarchisés par importance clinique
+    ---
     
-    ## ANALYSE DÉTAILLÉE
-    - Contexte et enjeux
-    - Analyse critique des données
-    - Implications pratiques pour l'officine
-    - Points de vigilance et contre-indications
-    - Conseils d'application concrète
-    
-    ## RECOMMANDATIONS PRATIQUES
-    - Actions à entreprendre
-    - Erreurs à éviter
-    - Ressources complémentaires
-    
-    ## SOURCES VALIDÉES
-    - URLs des sources principales utilisées
-    
-    Format : 1000-1500 mots, style professionnel et précis.
+    ### SOURCES TRANSMISES
+    - [Titre de la source 1 - URL complète de la source 1]
+    - [Titre de la source 2 - URL complète de la source 2]
 
   agent: pharmacien_expert_clinique
   context:
@@ -115,58 +103,44 @@ tache_analyse_clinique_et_synthese:
 
 tache_formulation_pedagogique_reponse:
   description: >
-    MISSION : Transformer l'analyse clinique experte en contenu pédagogique parfaitement
-    adapté à un pharmacien en début de carrière.
+    TA MISSION :
+    Prendre l'analyse brute fournie par tes collègues et la transformer en un document
+    final. Ce document doit être la seule chose que le pharmacien lira. Il doit
+    être parfait : utile, fiable et agréable à consulter.
+
+    LES PRINCIPES DIRECTEURS À RESPECTER SCRUPULEUSEMENT :
+
+    1.  **ADAPTABILITÉ AU SUJET :** La structure que tu choisiras DOIT être
+        logique et parfaitement adaptée à la nature de la question initiale. Une question
+        sur un médicament n'aura pas la même forme de réponse qu'une question sur le
+        management ou la réglementation. Fais preuve de jugement pour créer la
+        structure la plus pertinente.
+
+    2.  **HIÉRARCHIE VISUELLE CLAIRE :** Le document doit être imprimable et facile
+        à "scanner" du regard. Le lecteur doit pouvoir saisir les points critiques en
+        moins de 30 secondes. Pour cela, tu es libre d'utiliser toute la richesse du
+        Markdown :
+        - Des titres et sous-titres clairs.
+        - Des listes à puces ou numérotées.
+        - L'utilisation judicieuse du **gras** pour les termes importants.
+        - Des tableaux, si cela aide à clarifier une information complexe (ex: interactions).
+        - Des emojis, avec parcimonie et uniquement s'ils ajoutent du sens (ex: 🚨, 💡, ✅, ❌).
+
+    3.  **TON ET STYLE :** Le ton doit être professionnel, mais aussi engageant et
+        encourageant. Le style doit être fluide et direct. Évite le jargon
+        académique ou un langage trop sec.
+
+    4.  **EXACTITUDE ET SOURÇAGE :** Toute l'information doit être exacte et provenir
+        du contexte fourni par les agents précédents. Une section "Sources" listant
+        clairement les documents utilisés (Titre - URL) doit impérativement figurer à la fin.
     
-    PRINCIPES PÉDAGOGIQUES :
-    1. CLARTÉ ET ACCESSIBILITÉ
-       - Remplacer le jargon technique par des termes clairs
-       - Expliquer les concepts complexes étape par étape
-       - Utiliser des exemples concrets et parlants
-    
-    2. PROGRESSION LOGIQUE
-       - Aller du général au particulier
-       - Construire sur les acquis
-       - Créer des liens logiques entre les idées
-    
-    3. MÉMORISATION ET APPLICATION
-       - Utiliser des moyens mnémotechniques si pertinent
-       - Proposer des cas pratiques
-       - Donner des repères concrets
-    
-    4. MOTIVATION ET CONFIANCE
-       - Adopter un ton encourageant et bienveillant
-       - Valoriser l'apprentissage progressif
-       - Rassurer sur la normalité des questionnements
-    
-    ADAPTATIONS SPÉCIFIQUES :
-    - Éviter le tutoiement (rester professionnel)
-    - Contextualiser avec des situations d'officine
-    - Anticiper les questions d'un débutant
-    - Proposer des ressources pour approfondir
+    5.  **LANGUE ET FORMAT :** Le document doit être rédigé **exclusivement en français**.
+        Assure-toi qu'aucun caractère ou mot d'une autre langue n'apparaisse
+        par erreur dans le texte final.
 
   expected_output: >
-    Le document final en français, prêt à être consulté, structuré ainsi :
-    
-    ## POINTS CLÉS ESSENTIELS
-    - Reprise des points critiques en langage accessible
-    - Formulation claire et mémorisable
-    
-    ## CONTENU PRINCIPAL
-    - Explication progressive et structurée
-    - Exemples pratiques d'officine
-    - Conseils d'application concrets
-    - Points de vigilance reformulés clairement
-    
-    ## POUR ALLER PLUS LOIN
-    - Ressources complémentaires recommandées
-    - Situations nécessitant un approfondissement
-    
-    ## SOURCES DE RÉFÉRENCE
-    - Liste des sources principales consultées
-    
-    Format : Texte en markdown pur (sans délimiteurs ```markdown), 
-    style professionnel mais accessible, 1200-1800 mots.
+    Le document final en Markdown, parfaitement formaté, structuré et prêt à être
+    imprimé ou lu.
 
   agent: pharmacien_pedagogue
   context:
