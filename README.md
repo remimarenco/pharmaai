@@ -1,56 +1,67 @@
-# Pharmaai Crew
+# PharmaAI Crew
 
-Projet CrewAI pour aider un pharmacien officinal débutant.
+## À propos du projet
 
-Welcome to the Pharmaai Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
+PharmaAI Crew est un système d'agents IA conçu pour assister les pharmaciens d'officine, en particulier les débutants, dans leurs tâches quotidiennes. Le projet s'appuie sur le framework [crewAI](https://crewai.com) pour orchestrer une équipe d'agents spécialisés qui collaborent pour rechercher des informations, analyser des documents et fournir des réponses précises à des questions pharmaceutiques complexes.
 
-## Installation
+L'objectif est de fournir un outil fiable et efficace pour aider à la prise de décision et alléger la charge de travail en automatisant les tâches de recherche d'informations.
 
-Ensure you have Python >=3.10 <3.13 installed on your system. This project uses [UV](https://docs.astral.sh/uv/) for dependency management and package handling, offering a seamless setup and execution experience.
+## Démarrage rapide
 
-First, if you haven't already, install uv:
+Suivez ces étapes pour installer et lancer le projet sur votre machine.
+
+### Prérequis
+
+Assurez-vous d'avoir Python (version >= 3.10 et < 3.13) installé sur votre système. Ce projet utilise [UV](https://docs.astral.sh/uv/) pour la gestion des dépendances.
+
+### Installation
+
+1.  **Installer UV** (si ce n'est pas déjà fait) :
+    ```bash
+    pip install uv
+    ```
+
+2.  **Installer les dépendances du projet** :
+    Depuis la racine du projet, exécutez la commande suivante pour créer un environnement virtuel et installer les paquets nécessaires :
+    ```bash
+    crewai install
+    ```
+
+### Configuration
+
+Avant de lancer le projet, vous devez configurer votre clé d'API OpenAI.
+
+1.  Ouvrez le fichier `.env` et ajoutez votre clé d'API :
+    ```
+    OPENAI_API_KEY="votre_clé_api_ici"
+    ```
+
+## Utilisation
+
+Pour lancer la mission de votre équipe d'agents, exécutez la commande suivante depuis le dossier racine de votre projet :
 
 ```bash
-pip install uv
+crewai run
 ```
 
-Next, navigate to your project directory and install the dependencies:
+Cette commande initialise l'équipe PharmaAI, assemble les agents et leur assigne les tâches définies dans vos fichiers de configuration. Par défaut, l'exemple initial effectuera une recherche sur les LLM et créera un fichier `report.md` à la racine du projet avec les résultats.
 
-(Optional) Lock the dependencies and install them by using the CLI command:
-```bash
-crewai install
-```
-### Customizing
+## Personnalisation
 
-**Add your `OPENAI_API_KEY` into the `.env` file**
+Vous pouvez adapter le comportement de votre équipe en modifiant les fichiers de configuration :
 
-- Modify `src/pharmaai/config/agents.yaml` to define your agents
-- Modify `src/pharmaai/config/tasks.yaml` to define your tasks
-- Modify `src/pharmaai/crew.py` to add your own logic, tools and specific args
-- Modify `src/pharmaai/main.py` to add custom inputs for your agents and tasks
-
-## Running the Project
-
-To kickstart your crew of AI agents and begin task execution, run this from the root folder of your project:
-
-```bash
-$ crewai run
-```
-
-This command initializes the PharmaAI Crew, assembling the agents and assigning them tasks as defined in your configuration.
-
-This example, unmodified, will run the create a `report.md` file with the output of a research on LLMs in the root folder.
-
-## Understanding Your Crew
-
-The PharmaAI Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
+-   `src/pharmaai/config/agents.yaml` : Définissez les rôles, objectifs et outils de vos agents.
+-   `src/pharmaai/config/tasks.yaml` : Décrivez les tâches que les agents doivent accomplir.
+-   `src/pharmaai/crew.py` : Ajoutez votre propre logique, des outils personnalisés ou des arguments spécifiques.
+-   `src/pharmaai/main.py` : Modifiez les entrées (inputs) pour vos agents et vos tâches.
 
 ## Support
 
-For support, questions, or feedback regarding the Pharmaai Crew or crewAI.
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
+Pour toute question ou suggestion concernant PharmaAI Crew ou le framework `crewAI` :
 
-Let's create wonders together with the power and simplicity of crewAI.
+-   Consultez la [documentation officielle](https://docs.crewai.com)
+-   Visitez le [dépôt GitHub de crewAI](https://github.com/joaomdmoura/crewai)
+-   Rejoignez la communauté sur [Discord](https://discord.com/invite/X4JWnZnxPb)
+
+---
+Créons des merveilles ensemble avec la puissance et la simplicité de crewAI.

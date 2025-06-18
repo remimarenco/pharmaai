@@ -113,6 +113,7 @@ decorator==5.2.1
     # via ipython
 deprecated==1.2.18
     # via
+    #   pharmaai (pyproject.toml)
     #   opentelemetry-api
     #   opentelemetry-exporter-otlp-proto-grpc
     #   opentelemetry-exporter-otlp-proto-http
