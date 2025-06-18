@@ -1,16 +1,17 @@
-import gradio as gr
-from gradio import ChatMessage
+import sys
 import dotenv
 import os
 from openai import OpenAI
+from src.pharmaai.crew import Pharmaai
 from crewai import Agent, Crew, Process, Task, LLM
 from crewai.agents.agent_builder.base_agent import BaseAgent
 from datetime import datetime
 import time
 import asyncio
 from crewai.utilities.events import crewai_event_bus
-from pharmaai.gradio_listener import GradioCrewListener
-from pharmaai.crew import Pharmaai
+from src.pharmaai.gradio_listener import GradioCrewListener
+import gradio as gr
+from gradio import ChatMessage
 from fastapi import FastAPI
 
 app = FastAPI()
@@ -101,6 +102,15 @@ async def call_crew(message: str, history: list):
 
                     if event_metadata.get("is_crew_final_output"):
                         final_crew_output_content = event_content
+                        # Refined logic for markdown cleaning
+                        # Remove ```markdown prefix (with or without newline)
+                        final_crew_output_content = final_crew_output_content.replace("```markdown\n", "")
+                        final_crew_output_content = final_crew_output_content.replace("```markdown", "") # In case there's no newline after ```markdown
+
+                        # Remove trailing ```
+                        if final_crew_output_content.endswith("```"):
+                            final_crew_output_content = final_crew_output_content[:-3]
+                        
                         # The final output is stored; we will yield it as part of the final list.
                     else:
                         # This is an intermediate, 'behind the scenes' update
