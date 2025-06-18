@@ -20,12 +20,6 @@ class EXABaseToolSchema(BaseModel):
     search_query: str = Field(
         ..., description="Mandatory search query you want to use to search the internet"
     )
-    start_published_date: Optional[str|NoneType] = Field(
-        None, description="Start date for the search"
-    )
-    end_published_date: Optional[str|NoneType] = Field(
-        None, description="End date for the search"
-    )
     include_domains: Optional[list[str]] = Field(
         None, description="List of domains to include in the search"
     )
@@ -77,8 +71,6 @@ class EXASearchTool(BaseTool):
     def _run(
         self,
         search_query: str,
-        start_published_date: Optional[str|NoneType] = None,
-        end_published_date: Optional[str|NoneType] = None,
         include_domains: Optional[list[str]] = None,
     ) -> Any:
         if self.client is None:
@@ -87,23 +79,6 @@ class EXASearchTool(BaseTool):
         search_params = {
             "type": self.type,
         }
-
-        if start_published_date:
-            try:
-                parse(start_published_date)
-                search_params["start_published_date"] = start_published_date
-            except (ValueError, TypeError):
-                logging.warning(
-                    f"Invalid start_published_date format: '{start_published_date}'. Ignoring."
-                )
-        if end_published_date:
-            try:
-                parse(end_published_date)
-                search_params["end_published_date"] = end_published_date
-            except (ValueError, TypeError):
-                logging.warning(
-                    f"Invalid end_published_date format: '{end_published_date}'. Ignoring."
-                )
 
         if include_domains:
             search_params["include_domains"] = include_domains
@@ -115,8 +90,9 @@ class EXASearchTool(BaseTool):
             }
         if self.content:
             results = self.client.search_and_contents(
-                search_query, text = True, **search_params
+                search_query, highlights = True, **search_params
             )
         else:
             results = self.client.search(search_query, **search_params)
+
         return results

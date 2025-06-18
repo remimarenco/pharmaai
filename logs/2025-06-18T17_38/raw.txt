@@ -1,0 +1,93 @@
+```markdown
+# Sertraline : Conseils et Précautions à la Délivrance ⚠️
+
+## Introduction
+
+La sertraline (Zoloft et génériques) est un antidépresseur de la classe des ISRS (inhibiteurs sélectifs de la recapture de la sérotonine). Cette fiche pratique résume les informations essentielles pour une dispensation sécurisée et efficace, en mettant l'accent sur les aspects importants pour le pharmacien d'officine.
+
+## Indications ✅
+
+La sertraline est indiquée chez l'adulte, l'enfant et l'adolescent (pour certaines indications) dans le traitement de :
+
+*   **Dépression** (épisodes dépressifs majeurs).
+*   **Troubles anxieux:**
+    *   Trouble panique.
+    *   Trouble obsessionnel-compulsif (TOC).
+    *   Trouble de stress post-traumatique (TSPT).
+    *   Phobie sociale.
+
+## Contre-indications ❌
+
+*   **Association avec les IMAO** (inhibiteurs de la monoamine oxydase) : risque de syndrome sérotoninergique grave. Respecter un délai d'au moins 14 jours entre l'arrêt d'un IMAO et le début de la sertraline, et inversement.
+*   **Association avec le pimozide.**
+*   **Insuffisance hépatique sévère.**
+*   **Hypersensibilité** à la sertraline ou à l'un des excipients.
+
+## Précautions d'emploi et Interactions Médicamenteuses 💊
+
+### Interactions à risque nécessitant une attention particulière
+
+| Médicament                                   | Risque                                                                                                 | Conduite à tenir                                                                                                                                                           |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **IMAO** (inhibiteurs de la monoamine oxydase) | Syndrome sérotoninergique (confusion, agitation, fièvre, tremblements...)                             | **Contre-indiqué.** Respecter un délai de 14 jours entre l'arrêt de l'IMAO et le début de la sertraline.                                                                 |
+| **Autres ISRS et sérotoninergiques**          | Augmentation du risque de syndrome sérotoninergique                                                       | Surveillance accrue des signes de syndrome sérotoninergique.                                                                                                             |
+| **Warfarine et autres anticoagulants oraux**  | Augmentation du risque de saignement                                                                    | Surveillance de l'INR et adaptation posologique si nécessaire.                                                                                                            |
+| **AINS et aspirine**                          | Augmentation du risque de saignements gastro-intestinaux                                                 | Utiliser avec prudence. Privilégier le paracétamol si possible. Informer le patient des signes de saignement digestif (méléna, hématémèse).                               |
+| **Médicaments allongeant l'intervalle QT**     | Augmentation du risque d'arythmies ventriculaires (torsades de pointes)                               | Éviter l'association ou surveiller l'ECG.                                                                                                                                    |
+| **Pimozide**                                  | Risque majoré de troubles du rythme ventriculaire.                                                     | **Contre-indiqué.**                                                                                                                                                        |
+
+### Autres précautions d'emploi importantes
+
+*   **Insuffisance hépatique :** Utiliser avec prudence. Réduire la dose si nécessaire.
+*   **Risque suicidaire :** Surveiller attentivement les patients, surtout en début de traitement et chez les jeunes adultes.
+*   **Syndrome sérotoninergique :** Être vigilant face aux signes (confusion, agitation, fièvre, etc.).
+*   **Allongement de l'intervalle QT :** Utiliser avec prudence chez les patients présentant des facteurs de risque.
+*   **Hyponatrémie :** Surveiller les patients âgés, plus à risque.
+
+## Effets Indésirables Possibles 🚨
+
+*   **Très fréquents :** Nausées, diarrhées, insomnie, somnolence, sécheresse buccale, troubles de l'éjaculation.
+*   **Fréquents :** Anorexie, agitation, anxiété, diminution de la libido, vertiges, tremblements, troubles visuels, palpitations, vomissements, constipation, éruption cutanée, transpiration excessive, fatigue.
+*   **Rares, mais importants :**
+    *   **Syndrome sérotoninergique** (🚨 Urgence médicale).
+    *   **Hyponatrémie** (surtout chez les personnes âgées).
+    *   **Saignements** (ecchymoses, saignements de nez, saignements gastro-intestinaux).
+    *   **Convulsions**.
+    *   **Réactions allergiques sévères.**
+*   **Sevrage :** L'arrêt brutal peut entraîner des symptômes de sevrage (vertiges, paresthésies, anxiété, troubles de l'humeur).
+
+## Populations Spécifiques 👥
+
+*   **Grossesse et Allaitement :** La sertraline peut affecter le nouveau-né. Discuter des avantages et des risques avec le médecin traitant. À utiliser avec prudence, en évaluant le rapport bénéfice/risque.
+*   **Personnes âgées :** Risque accru d'hyponatrémie. Surveillance accrue nécessaire.
+*   **Insuffisance hépatique ou rénale :** Adapter la posologie en fonction du degré d'insuffisance. Contre-indiqué en cas d'insuffisance hépatique sévère.
+
+## Conseils au Patient et Surveillance 👀
+
+*   **Explication du traitement :**
+    *   Prendre le médicament régulièrement, à la même heure chaque jour.
+    *   Le délai d'action est de plusieurs semaines. Ne pas interrompre brutalement le traitement, même en l'absence d'amélioration immédiate.
+    *   Ne pas hésiter à signaler tout effet indésirable.
+*   **Effets indésirables :** Informer le patient des effets indésirables potentiels et comment les gérer.
+*   **Interactions médicamenteuses :** Vérifier les médicaments concomitants du patient. Mettre en garde contre l'utilisation d'AINS sans avis médical.
+*   **Sevrage :** Expliquer la nécessité de réduire progressivement la dose lors de l'arrêt du traitement.
+*   **Alcool :** Déconseiller la consommation d'alcool pendant le traitement.
+*   **Conduite :** Informer le patient des risques potentiels de somnolence ou de troubles de la concentration.
+*   **Surveillance du poids :** Surveiller le poids du patient.
+*   **Signes d'alerte à surveiller :**
+    *   Symptômes de syndrome sérotoninergique.
+    *   Saignements anormaux.
+    *   Idées suicidaires.
+    *   Réactions allergiques.
+
+## Conclusion 💡
+
+La délivrance de sertraline nécessite une attention particulière en raison de ses interactions médicamenteuses potentielles et de ses effets indésirables. Une bonne communication avec le patient et une surveillance attentive sont essentielles pour assurer une utilisation sûre et efficace de ce médicament.
+
+## Sources 📚
+
+*   Résumé des caractéristiques du produit - ZOLOFT 50 mg, gélule - [https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60683198&typedoc=R](https://base-donnees-publique.medicaments.gouv.fr/affichageDoc.php?specid=60683198&typedoc=R)
+*   Sertraline Mylan - Vidal : Fiche abrégée - [https://www.vidal.fr/medicaments/sertraline-mylan-80508.htm](https://www.vidal.fr/medicaments/sertraline-mylan-80508.htm)
+*   Sertraline Teva - Vidal : Fiche abrégée - [https://www.vidal.fr/medicaments/sertraline-teva-80506.htm](https://www.vidal.fr/medicaments/sertraline-teva-80506.htm)
+*   Sertraline Arrow - Vidal : Fiche abrégée - [https://www.vidal.fr/medicaments/zoloft-arrow-22525.htm](https://www.vidal.fr/medicaments/zoloft-arrow-22525.htm)
+```

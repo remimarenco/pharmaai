@@ -1,0 +1,85 @@
+# Sertraline : Guide de dispensation sécurisée à l'officine 💊
+
+Ce guide pratique a pour objectif de vous fournir, en tant que pharmacien, les informations essentielles pour une dispensation éclairée et sécurisée de la sertraline.
+
+## ⚠️ Points d'attention immédiate (30 secondes chrono !)
+
+*   **Antécédents de manie/hypomanie ou épilepsie instable ?** La sertraline est à utiliser avec prudence ou est contre-indiquée.
+*   **Femme en âge de procréer ?** Informer des risques potentiels liés à la grossesse.
+*   **Associations médicamenteuses à risque ?** IMAO, warfarine, AINS, autres ISRS/IRSNa.
+*   **Effets indésirables fréquents :** tremblements, agitation, transpiration. Prévenir le patient.
+*   **Délai d'action :** plusieurs semaines avant l'amélioration. Expliquer au patient pour favoriser l'observance.
+
+## 1. Avant de Dispenser : Vérifications Essentielles ✅
+
+*   **Antécédents du patient :**
+    *   Troubles bipolaires (manie/hypomanie)
+    *   Épilepsie (stable ou instable)
+    *   Grossesse (ou désir de grossesse)
+*   **Traitements concomitants :** Interactions médicamenteuses potentielles (voir section 3).
+
+## 2. Contre-indications et Précautions 🚨
+
+| Situation Clinique         | Risque                                                                                                | Conduite à Tenir                                                                                                                                                                                                                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Manie / Hypomanie          | Risque de virage maniaque                                                                               | **Contre-indiqué si épisode maniaque en cours.** Si antécédents, utiliser avec **prudence** et surveillance étroite. Informer le patient de signaler tout signe de virage maniaque (excitation, euphorie, diminution du besoin de sommeil). En cas de doute, contacter le prescripteur. |
+| Épilepsie                   | Abaissement du seuil épileptogène                                                                       | **Contre-indiqué en cas d'épilepsie instable.** Si épilepsie contrôlée, surveillance attentive. Informer le patient du risque de convulsions et de la nécessité de consulter rapidement en cas de survenue. S'assurer du suivi par un neurologue et de l'optimisation du traitement antiépileptique.     |
+| Grossesse                   | Risques potentiels pour le nouveau-né                                                                     | Utiliser **uniquement si strictement nécessaire**, après évaluation du rapport bénéfice/risque par le prescripteur. S'enquérir de la possibilité d'une grossesse chez les femmes en âge de procréer et informer des risques. Se référer au CRAT pour des informations actualisées.                                                 |
+
+**💡 Important :** En cas de doute, contactez le prescripteur.
+
+## 3. Interactions Médicamenteuses : Soyez Vigilant 🔎
+
+| Médicament(s)                               | Risque                                         | Conduite à Tenir                                                                                                                                                                                                                                                           |
+| ------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **IMAO (inhibiteurs de la monoamine oxydase)** | Syndrome sérotoninergique                     | **CONTRE-INDICATION** : Ne jamais associer. Respecter un délai entre l'arrêt de l'IMAO et le début de la sertraline, et inversement. Se référer aux RCP pour les délais précis.                                                                                              |
+| Warfarine                                   | Augmentation du risque hémorragique             | Surveillance de l'INR (International Normalized Ratio) recommandée.                                                                                                                                                                                                             |
+| AINS (Anti-inflammatoires non stéroïdiens)   | Augmentation du risque hémorragique             | Utiliser avec prudence, surtout chez les patients à risque (antécédents d'ulcère, âge avancé).                                                                                                                                                                                    |
+| Autres ISRS/IRSNa                           | Augmentation du risque de syndrome sérotoninergique | Utiliser avec prudence. Surveiller l'apparition de signes de syndrome sérotoninergique.                                                                                                                                                                                    |
+| Triptans, Tramadol, Millepertuis            | Augmentation du risque de syndrome sérotoninergique | Utiliser avec prudence. Surveiller l'apparition de signes de syndrome sérotoninergique.                                                                                                                                                                                    |
+
+## 4. Information et Conseils au Patient 💬
+
+*   **Effets indésirables fréquents :**
+    *   Tremblements
+    *   Agitation (incapacité à rester assis ou debout tranquillement)
+    *   Transpiration excessive
+    *   Troubles digestifs (nausées, diarrhées)
+    Prévenir le patient, rassurer sur le caractère souvent transitoire de ces effets, et conseiller de consulter si besoin.
+*   **Délai d'action :** L'amélioration peut prendre plusieurs semaines (2 à 4 semaines). La patience est essentielle.
+*   **Modalités de prise :**
+    *   Avec ou sans nourriture, de préférence à heure fixe pour améliorer l'observance.
+    *   Avaler les gélules/comprimés avec un verre d'eau, sans les croquer ni les ouvrir.
+*   **Durée du traitement :**
+    *   Ne pas interrompre brutalement le traitement sans avis médical, en raison du risque de syndrome de sevrage (troubles de l'humeur, irritabilité, sensations de choc électrique, etc.).
+    *   Le traitement doit être suivi selon les recommandations du médecin.
+
+## 5. Syndrome Sérotoninergique : Reconnaître et Agir Vite 🚑
+
+Bien que rare, le syndrome sérotoninergique est une urgence médicale.
+
+*   **Signes et symptômes :**
+    *   Confusion
+    *   Agitation
+    *   Fièvre
+    *   Transpiration excessive
+    *   Tremblements, rigidité musculaire
+    *   Diarrhée
+    *   Myoclonies (contractions musculaires involontaires)
+*   **Conduite à tenir :** En cas de suspicion, **orienter immédiatement le patient vers un médecin ou un service d'urgence.**
+
+## 6. Rôle du Pharmacien : Un Acteur Clé ✅
+
+*   **Sécurisation de la prescription :** Vérification des antécédents, des contre-indications et des interactions médicamenteuses.
+*   **Information du patient :** Bénéfices attendus, risques potentiels, modalités de prise, durée du traitement.
+*   **Conseils de gestion des effets indésirables :** Stratégies non médicamenteuses (ex : fractionner les repas en cas de nausées), quand consulter.
+*   **Suivi de l'observance :** Encourager le patient à suivre le traitement et à signaler tout problème rencontré.
+*   **Écoute et orientation :** Être disponible pour répondre aux questions du patient et l'orienter vers le médecin si nécessaire.
+
+## Sources 📚
+
+*   **Résumé des Caractéristiques du Produit (RCP) de la Sertraline** - [https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0390400.htm](https://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0390400.htm) - Informations officielles sur les indications, contre-indications, effets indésirables et interactions de la sertraline.
+*   **SERTRALINE EG 50 mg gél - VIDAL** - [https://www.vidal.fr/medicaments/sertraline-eg-50-mg-gel-71279.html](https://www.vidal.fr/medicaments/sertraline-eg-50-mg-gel-71279.html) - Monographie complète du médicament, incluant la posologie, les précautions d'emploi, et les informations patient.
+*   **Sertraline : substance active à effet thérapeutique - VIDAL** - [https://www.vidal.fr/medicaments/substances/sertraline-15688.html](https://www.vidal.fr/medicaments/substances/sertraline-15688.html) - Informations générales sur la sertraline en tant que substance active, son mécanisme d'action et ses utilisations thérapeutiques.
+*   **SEROPLEX** - [https://www.vidal.fr/medicaments/gammes/seroplex-21852.html](https://www.vidal.fr/medicaments/gammes/seroplex-21852.html) - Information sur un autre ISRS (escitalopram), utile pour la comparaison et la compréhension des effets de classe.
+*   **SERTRALINE SANDOZ** - [https://www.vidal.fr/medicaments/gammes/sertraline-sandoz-27818.html](https://www.vidal.fr/medicaments/gammes/sertraline-sandoz-27818.html) - Exemple de monographie d'une spécialité à base de sertraline, avec des informations similaires à SERTRALINE EG.

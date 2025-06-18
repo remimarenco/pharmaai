@@ -1,0 +1,96 @@
+```markdown
+# Vérification d'Ordonnance : Guide Pratique pour le Pharmacien
+
+Ce guide résume les points essentiels pour une vérification rigoureuse d'ordonnance, garantissant la sécurité du patient et la conformité réglementaire.
+
+## 1. Informations Obligatoires à Vérifier
+
+*   **Identification du Patient :**
+    *   ✅ Nom et prénom (vérifier la lisibilité, surtout sur ordonnances manuscrites).
+    *   ✅ Pour les enfants : âge et poids (indispensables pour adapter la posologie). En cas d'absence du poids, contacter le prescripteur.
+
+*   **Identification du Prescripteur :**
+    *   ✅ Identification du prescripteur (Nom, Qualification, RPPS)
+
+*   **Médicaments Prescrits :**
+    *   ✅ Dénomination commune internationale (DCI) ou nom de spécialité.
+    *   ✅ Dosage, forme pharmaceutique, posologie, durée du traitement et voie d'administration.
+    *   ✅ Quantité prescrite ou nombre d'unités de conditionnement.
+
+*   **Date de Prescription :** S'assurer de la validité de l'ordonnance (ex: limitée à 3 mois sauf mention contraire).
+
+## 2. Droit et Devoir de Refus de Dispensation
+
+*   **Motifs Légitimes :** Le pharmacien peut refuser la dispensation si l'intérêt de la santé du patient le requiert.
+    *   ❌ Doutes sur l'authenticité, le contenu ou l'intelligibilité de la prescription.
+    *   ❌ Doutes sur la qualité du prescripteur.
+    *   ❌ Risque d'interaction médicamenteuse dangereuse.
+    *   ❌ Posologie inappropriée.
+
+*   **Procédure :**
+    1.  Documenter les motifs du refus.
+    2.  Contacter le prescripteur si possible.
+    3.  Informer le patient.
+
+## 3. Lutte Contre les Fausses Ordonnances (🚨 ASAFO)
+
+*   **ASAFO (Alerte Sécurisée aux Fausses Ordonnances) :**
+    *   Obligatoire en cas de suspicion.
+    *   Fortement recommandé pour les médicaments onéreux.
+    *   Vérification via **amelipro**.
+
+*   **Signes de falsification :**
+    *   Papier ou encre inhabituels.
+    *   Prescription illisible ou incohérente.
+    *   Dosage inhabituel.
+    *   Absence de mentions obligatoires.
+
+## 4. Nouvelles Réglementations : Tramadol, Codéine, Dihydrocodéine (Dès le 1er Mars 2025)
+
+*   **Ordonnance Sécurisée Obligatoire :**
+    *   Posologie et durée du traitement en toutes lettres.
+    *   Durée de validité réduite à 12 semaines pour la codéine (comme pour le tramadol).
+*   **Actions :**
+    *   Informer les patients et les prescripteurs.
+    *   Affichage clair en officine.
+
+## 5. Médicaments de Liste I
+
+*   **Risques Élevés :** Surveillance accrue nécessaire.
+*   **Action :** Double vérification de la prescription et des antécédents médicamenteux du patient.
+
+## 6. Médicaments Stupéfiants et Assimilés
+
+*   **Règles Spécifiques :**
+    *   Interdiction de chevauchement.
+    *   Prescription en toutes lettres.
+    *   Règles de fractionnement spécifique (certains interdits, d'autres autorisés sous conditions).
+    *   Conservation des copies d’ordonnance.
+    *   Respect des quantités maximales prescriptibles.
+
+*   **Action :** Connaître impérativement les règles spécifiques à chaque stupéfiant. Se référer aux textes réglementaires (site de l'ANSM, notamment).
+
+## Tableau Récapitulatif des Points de Vigilance
+
+| Point de Vigilance             | Action Recommandée                                                              |
+| ------------------------------ | ------------------------------------------------------------------------------ |
+| Fausse ordonnance              | Vérification ASAFO, examen attentif des caractéristiques de l'ordonnance.     |
+| Interactions médicamenteuses    | Vérification systématique (logiciel de dispensation, base de données BCB).  |
+| Non-conformité réglementaire    | Mise à jour régulière des connaissances, protocoles de dispensation.          |
+| Médicaments stupéfiants        | Connaissance approfondie des règles spécifiques à chaque molécule.             |
+| Erreurs de posologie           | Vérification de la cohérence clinique, contact avec le prescripteur si besoin. |
+| Contre-indications              | Examen des antécédents du patient, recherche d'allergies et intolérances.     |
+
+## Conclusion
+
+La vérification d'ordonnance est une responsabilité majeure du pharmacien. Ce guide vous aide à sécuriser la dispensation et à optimiser la prise en charge du patient. Une vigilance constante et une connaissance actualisée de la réglementation sont essentielles.
+
+## Sources
+
+*   Tout savoir sur votre ordonnance de médicaments - VIDAL - [https://www.vidal.fr/medicaments/utilisation/regles-bon-usage/ordonnance-medicament-prescription.html](https://www.vidal.fr/medicaments/utilisation/regles-bon-usage/ordonnance-medicament-prescription.html)
+*   Dispensation de médicaments sur la base d’une ordonnance de l’Union Européenne - Ordre National des Pharmaciens - [https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/dispensation-de-medicaments-sur-la-base-d-une-ordonnance-de-l-union-europeenne2](https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/dispensation-de-medicaments-sur-la-base-d-une-ordonnance-de-l-union-europeenne2)
+*   Vérifier et signaler une fausse ordonnance avec le dispositif «Alerte sécurisée aux fausses ordonnances» (ASAFO) sur amelipro - Ordre National des Pharmaciens - [https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/verifier-et-signaler-une-fausse-ordonnance-avec-le-dispositif-alerte-securisee-aux-fausses-ordonnances-asafo-sur-amelipro](https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/verifier-et-signaler-une-fausse-ordonnance-avec-le-dispositif-alerte-securisee-aux-fausses-ordonnances-asafo-sur-amelipro)
+*   Actualité - Tramadol et codéine : les nouvelles règles de prescription et délivrance entrent en vigueur le 1er mars 2025 - ANSM - [https://ansm.sante.fr/actualites/tramadol-et-codeine-les-nouvelles-regles-de-prescription-et-delivrance-entrent-en-vigueur-le-1er-mars-2025](https://ansm.sante.fr/actualites/tramadol-et-codeine-les-nouvelles-regles-de-prescription-et-delivrance-entrent-en-vigueur-le-1er-mars-2025)
+*   Règles générales de prescription et de délivrance : médicaments à prescription obligatoire - VIDAL - [https://www.vidal.fr/infos-pratiques/regles-generales-de-prescription-et-de-delivrance-medicaments-a-prescription-obligatoire-id14193.html](https://www.vidal.fr/infos-pratiques/regles-generales-de-prescription-et-de-delivrance-medicaments-a-prescription-obligatoire-id14193.html)
+*   Meddispar - Conditions de prescription - [https://www.meddispar.fr/Substances-veneneuses/Medicaments-stupefiants-et-assimiles/Conditions-de-prescription](https://www.meddispar.fr/Substances-veneneuses/Medicaments-stupefiants-et-assimiles/Conditions-de-prescription)
+```

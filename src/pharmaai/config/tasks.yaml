@@ -43,9 +43,6 @@ tache_recherche_information:
     - **Collecte Brute :** Extrais l'information clé (un fait, une donnée, un extrait
       de texte) de manière objective. Il est **INTERDIT d'interpréter, de synthétiser
       ou de reformuler** l'information à ce stade.
-    - **Vérification Critique des Sources :** Vérifie la validité de l'URL source.
-      Si une URL semble mal formée, cassée (erreur 404) ou mène à une page
-      non pertinente, **écarte cette source**. Ta crédibilité en dépend.
 
     ### ÉTAPE 5 : FORMATAGE DU RAPPORT
     Structure toutes les données collectées et vérifiées en suivant **rigoureusement**
@@ -80,11 +77,14 @@ tache_analyse_clinique_et_synthese:
     Ta mission est de l'analyser, le synthétiser et l'enrichir avec ton expertise
     pour produire une analyse structurée qui servira de base à la fiche pratique finale.
 
+    Le rapport doit être produit pour répondre à cette question : {question_pharmacienne}
+
     INSTRUCTION CLÉ : ADAPTE TON ANALYSE ET TA STRUCTURE.
     - Si le sujet est **clinique**, ton analyse portera sur les risques, les interactions,
       les conseils de dispensation, etc.
     - Si le sujet est **réglementaire ou managérial**, ton analyse portera sur les
       implications pratiques, les points de procédure, les stratégies de communication, etc.
+    - Si c'est un autre sujet, fait ce que tu penses être le plus adapté.
 
     Le but est de transformer les "faits bruts" en "intelligence actionnable".
   expected_output: >
@@ -117,6 +117,7 @@ tache_formulation_pedagogique_reponse:
     Prendre l'analyse brute fournie par tes collègues et la transformer en un document
     final. Ce document doit être la seule chose que le pharmacien lira. Il doit
     être parfait : utile, fiable et agréable à consulter.
+    Il doit répondre à la question du pharmacien : {question_pharmacienne}
 
     LES PRINCIPES DIRECTEURS À RESPECTER SCRUPULEUSEMENT :
 
@@ -137,8 +138,7 @@ tache_formulation_pedagogique_reponse:
         - Des emojis, avec parcimonie et uniquement s'ils ajoutent du sens (ex: 🚨, 💡, ✅, ❌).
 
     3.  **TON ET STYLE :** Le ton doit être professionnel, mais aussi engageant et
-        encourageant. Le style doit être fluide et direct. Évite le jargon
-        académique ou un langage trop sec.
+        encourageant. Évite le jargon académique ou un langage trop sec.
 
     4.  **EXACTITUDE ET SOURÇAGE :** Toute l'information doit être exacte et provenir
         du contexte fourni par les agents précédents. Une section "Sources" listant

@@ -1,0 +1,70 @@
+```markdown
+# Prise en charge d'une personne présentant une tique près de l'œil
+
+## Résumé
+
+Cette fiche pratique fournit des conseils aux pharmaciens concernant la prise en charge d'un patient présentant une tique fixée près de l'œil, et incapable de la retirer lui-même. Elle aborde l'importance d'un retrait rapide et correct de la tique, les risques associés à la maladie de Lyme, les précautions spécifiques liées à la proximité de l'œil et les conseils à donner au patient. Elle insiste également sur les situations nécessitant une orientation vers un médecin.
+
+## Analyse détaillée
+
+### Constatations clés
+
+*   **Retrait rapide :** Le retrait de la tique doit être effectué le plus rapidement possible afin de minimiser le risque de transmission de pathogènes, notamment *Borrelia burgdorferi*, l'agent responsable de la maladie de Lyme.
+*   **Technique de retrait :** La technique de retrait est cruciale. Il est impératif d'utiliser un tire-tique ou une pince fine pour saisir la tique au plus près de la peau, sans l'écraser, et de la retirer par une traction douce et régulière.
+*   **Proximité de l'œil :** La présence d'une tique près de l'œil nécessite une attention particulière en raison du risque de lésions oculaires lors du retrait.
+*   **Absence d'auto-extraction :** L'incapacité du patient à retirer lui-même la tique est un élément important à prendre en compte.
+
+### Risques et considérations spécifiques pour les tiques près de l'œil
+
+*   **Lésions oculaires :** Tentatives de retrait inappropriées peuvent entraîner des lésions de la cornée, de la conjonctive ou des paupières.
+*   **Irritation et infection :** La morsure de tique peut provoquer une irritation locale et, si la tique n'est pas retirée correctement, un risque d'infection.
+*   **Maladie de Lyme :** Bien que le risque de transmission de la maladie de Lyme existe, il est important de rappeler que toutes les tiques ne sont pas porteuses de *Borrelia burgdorferi* et que la transmission prend généralement plusieurs heures après la fixation de la tique.
+
+### Conseils à l'officine
+
+En tant que pharmacien, plusieurs options sont possible, mais il est important de ne pas se substituer à un médecin. La première des choses à faire est de poser des questions au patient, par exemple:
+* Depuis combien de temps la tique est présente?
+* Est-ce qu'il y a des signes d'infections (rougeurs, douleurs, chaleur localisée)?
+* Est-ce que la personne a d'autres symptômes (fièvre, fatigue, douleurs musculaires)?
+
+#### Face à cette situation, vous pouvez:
+
+1.  **Retrait de la tique par un professionnel :**
+    La meilleure option est de diriger le patient vers un médecin ou un service d'urgence, surtout si la tique est très proche de l'œil ou si le patient est incapable de coopérer (par exemple, un enfant). Le pharmacien ne doit pas retirer lui même la tique.
+
+2.  **Conseils si le patient souhaite retirer la tique lui-même :**
+    *   **Hygiène :** Se laver soigneusement les mains à l'eau et au savon. Nettoyer la zone autour de la tique avec un antiseptique local (chlorhexidine, povidone iodée).
+    *   **Matériel :** Utiliser un tire-tique ou une pince fine à extrémités pointues et propres.
+    *   **Technique :** Saisir la tique au plus près de la peau, sans l'écraser. TirerDoucement et régulièrement dans l'axe de la tique jusqu'à son détachement. Vérifier que le rostre (la tête) de la tique a bien été extrait.
+    *   **Désinfection post-retrait :** Désinfecter à nouveau la zone de morsure après le retrait de la tique.
+    *   **Surveillance :** Surveiller l'apparition de signes d'infection locale (rougeur, gonflement, douleur) ou de symptômes généraux (fièvre, éruption cutanée) dans les jours ou semaines suivant le retrait.
+
+### Conseils au patient
+
+*   **Ne pas paniquer :** Le risque de contracter la maladie de Lyme après une morsure de tique est faible, surtout si la tique est retirée rapidement.
+*   **Éviter les méthodes inappropriées :** Ne pas utiliser d'éther, d'huile, de vaseline ou d'autres substances pour tenter d'étouffer la tique. Ces méthodes peuvent augmenter le risque de transmission de pathogènes.
+*   **Surveillance de la zone de morsure :** Surveiller l'apparition d'une rougeurMigrante (érythème migrant) autour de la zone de morsure, qui peut être un signe précoce de la maladie de Lyme.
+*   **Consultation médicale :** Consulter un médecin si des symptômes apparaissent dans les semaines suivant la morsure (fièvre, fatigue, douleurs articulaires, éruption cutanée).
+
+### Quand orienter vers un médecin
+
+*   **Tique très proche de l'œil :** En raison du risque de lésions oculaires.
+*   **Incapacité à retirer la tique :** Si le patient est incapable de retirer la tique lui-même, surtout chez un enfant ou une personne anxieuse.
+*   **Signes d'infection locale :** Rougeur importante, gonflement, douleur, pus au niveau de la morsure.
+*   **Apparition de symptômes généraux :** Fièvre, fatigue, douleurs articulaires, éruption cutanée dans les semaines suivant la morsure.
+*   **Antécédents de maladie de Lyme :** Chez les patients ayant déjà eu la maladie de Lyme, une nouvelle morsure de tique peut nécessiter une surveillance particulière.
+*   **Femme enceinte:** par précaution, il est préférable de référer ce type de patiente.
+
+## Recommandations/Points de vigilance
+
+*   **Formation continue :** Se tenir informé des recommandations actualisées concernant la prévention et le traitement de la maladie de Lyme.
+*   **Information du public :** Sensibiliser le public à l'importance de la prévention des morsures de tiques (vêtements couvrants, répulsifs) et aux gestes à adopter en cas de morsure.
+*   **Trousse de premiers secours :** Avoir à disposition à l'officine le matériel nécessaire pour le retrait des tiques (tire-tiques, pinces fines, antiseptiques).
+*   **Ne pas réaliser l'extraction à l'officine.** Il est préférable d'orienter vers un médecin, particulièrement si la tique est proche de l'oeil.
+
+## Sources
+
+*   [Haute Autorité de Santé (HAS) - Maladie de Lyme : prévention, diagnostic et traitement](URL à compléter)
+*   [Vidal - Tiques et maladie de Lyme : conseils aux patients](URL à compléter)
+*   [Ameli.fr - Maladie de Lyme : symptômes, traitement, prévention](URL à compléter).
+```
