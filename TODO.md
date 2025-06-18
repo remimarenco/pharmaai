@@ -8,6 +8,8 @@
 - [ ] Fix [EventBus Error] Handler 'on_crew_failed' failed for event 'CrewKickoffFailedEvent': 'CrewKickoffFailedEvent' object has no attribute 'error_message'
 - [ ] Add python debugger
 - [ ] Instead of asking LLMs to copy/paste URLs between tasks, extract manually and add them to the final output
+- [ ] Explain state of the project and why it won't go further + lessons + limitations
+- [ ] Clean up readme and such for pro output
 
 ### In Progress
 
