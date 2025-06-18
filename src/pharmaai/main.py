@@ -69,3 +69,33 @@ def test():
         Pharmaai().crew().test(n_iterations=int(sys.argv[1]), eval_llm=sys.argv[2], inputs=inputs)
     except Exception as e:
         raise Exception(f"An error occurred while testing the crew: {e}")
+
+def reset_memories():
+    # Reset memories programmatically
+    try:
+        Pharmaai().crew().reset_memories(command_type='all')
+        print("Memories reset successfully")
+    except Exception as e:
+        print(f"Error resetting memories: {e}")
+    # Try resetting individual memory types
+    try:
+        Pharmaai().crew().reset_memories(command_type='short')
+    except Exception as e2:
+        print(f"Error resetting individual memories: {e2}")
+    try:
+        Pharmaai().crew().reset_memories(command_type='long')
+    except Exception as e2:
+          print(f"Error resetting individual memories: {e2}")
+    try:
+        Pharmaai().crew().reset_memories(command_type='entity')
+    except Exception as e2:
+        print(f"Error resetting individual memories: {e2}")
+    try:
+        Pharmaai().crew().reset_memories(command_type='knowledge')
+    except Exception as e2:
+        print(f"Error resetting individual memories: {e2}")
+    print("Individual memory types reset successfully")
+
+
+if __name__ == "__main__":
+    run()
