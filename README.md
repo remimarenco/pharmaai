@@ -29,11 +29,13 @@ Assurez-vous d'avoir Python (version >= 3.10 et < 3.13) installé sur votre syst
 
 ### Configuration
 
-Avant de lancer le projet, vous devez configurer votre clé d'API OpenAI.
+Avant de lancer le projet, vous devez configurer votre clé d'API EXASearch, OpenRouter et LangTrace.
 
 1.  Ouvrez le fichier `.env` et ajoutez votre clé d'API :
     ```
-    OPENAI_API_KEY="votre_clé_api_ici"
+    EXA_API_KEY="votre_clé_api_ici"
+    OPENROUTER_API_KEY="votre_clé_api_ici"
+    LANGTRACE_API_KEY="votre_clé_api_ici"
     ```
 
 ## Utilisation
@@ -41,10 +43,12 @@ Avant de lancer le projet, vous devez configurer votre clé d'API OpenAI.
 Pour lancer la mission de votre équipe d'agents, exécutez la commande suivante depuis le dossier racine de votre projet :
 
 ```bash
-crewai run
+uvicorn src.pharmaai.gradio_app:app
 ```
 
-Cette commande initialise l'équipe PharmaAI, assemble les agents et leur assigne les tâches définies dans vos fichiers de configuration. Par défaut, l'exemple initial effectuera une recherche sur les LLM et créera un fichier `report.md` à la racine du projet avec les résultats.
+Cette commande lancera une page gradio qui permet de :
+1. Avoir une fenetre de chat pour poser sa question pharmaceutique
+2. Lancer plusieurs chats en parallèle
 
 ## Personnalisation
 
