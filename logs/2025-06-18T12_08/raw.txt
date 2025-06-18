@@ -1,0 +1,98 @@
+```markdown
+# Guide Pratique : Vérification d'Ordonnances à l'Officine
+
+Ce guide a pour objectif de vous fournir une méthode simple et efficace pour la vérification d'ordonnances à l'officine, en intégrant les aspects réglementaires et les bonnes pratiques.
+
+## 1. Recevabilité de l'Ordonnance : Premiers Points de Contrôle
+
+✅ **Objectif :** S'assurer que l'ordonnance est correctement présentée et que les informations de base sont présentes.
+
+*   **Identification du Patient :**
+    *   Nom et prénom lisibles
+    *   Date de naissance
+    *   En cas de doute, demandez une pièce d'identité.
+*   **Identification du Prescripteur :**
+    *   Nom et qualification clairement indiqués
+    *   Identification structure (si applicable)
+    *   RPPS (Répertoire Partagé des Professionnels de Santé)
+*   **Date de Prescription :**
+    *   Vérifier que la date est présente et valide (notamment pour les médicaments à durée de prescription limitée).
+
+## 2. Authenticité et Validité : Lutter Contre la Fraude
+
+🚨 **Objectif :** Détecter les fausses ordonnances et protéger les patients.
+
+*   **Vérification ASAFO :**
+    *   Systématiser la vérification via **ASAFO (Alerte Sécurisée aux Fausses Ordonnances)** sur AmeliPro, surtout pour les médicaments onéreux (article II, mention III de la convention).
+*   **Vigilance Accrue :**
+    *   Ordonnances manuscrites
+    *   Substances à risque : opioïdes, benzodiazépines
+*   **Actions en Cas de Doute :**
+    *   Contacter directement le prescripteur pour confirmation.
+    *   Former l'équipe à la reconnaissance des faux formulaires et signatures.
+
+💡 **Recommandation :** En cas de suspicion de fausse ordonnance, ne pas hésiter à contacter les autorités compétentes.
+
+## 3. Conformité Réglementaire : Mentions Obligatoires
+
+✅ **Objectif :** S'assurer que l'ordonnance est conforme aux exigences de l'Assurance Maladie pour la prise en charge.
+
+*   **Check-list des Mentions Obligatoires :**
+    *   Identifiant du prescripteur (RPPS)
+    *   Identifiant de la structure (si applicable)
+    *   Identité du patient (Nom, prénom, date de naissance)
+    *   Date de prescription
+    *   Dénomination du médicament (DCI de préférence)
+    *   Posologie claire et précise
+    *   Durée du traitement
+    *   Signature du prescripteur
+*   **En cas d'Absence d'une Mention :**
+    *   Contacter le prescripteur pour régularisation avant la dispensation (si possible).
+
+💡 **Recommandation :** Mettre à jour régulièrement vos connaissances sur les évolutions réglementaires.
+
+## 4. Analyse Pharmaceutique Approfondie : Sécurité et Efficacité
+
+💊 **Objectif :** Optimiser la prise en charge du patient en identifiant et en prévenant les risques iatrogènes.
+
+*   **Cohérence de la Prescription :**
+    *   Posologie adaptée à l'âge, au poids et à la fonction rénale du patient
+    *   Durée de traitement justifiée
+    *   Absence d'interactions médicamenteuses significatives (utiliser un logiciel de référence)
+    *   Absence de contre-indications (allergies, pathologies)
+*   **Pertinence Clinique :**
+    *   Adéquation de la prescription avec l'état clinique du patient
+    *   Antécédents médicamenteux (éviter les redondances, identifier les problèmes potentiels)
+*   **Prescription Hors AMM :**
+    *   Évaluer le rapport bénéfice/risque attentivement
+    *   Documenter la décision de dispensation (ou de refus)
+    *   Contacter le prescripteur en cas de doute ou d'incohérence.
+
+💡 **Recommandation :** Développer une approche structurée de l'analyse pharmaceutique : anamnèse patient, revue de l'historique médicamenteux, identification des risques.
+
+## 5. Évolution Réglementaire : Anticiper pour Mieux Servir
+
+📅 **Objectif :** Se tenir informé des changements pour adapter la pratique officinale.
+
+*   **Ordonnance Numérique :**
+    *   Généralisation prévue pour le **31 décembre 2024**.
+    *   Suivre les communications de l'Ordre et de l'Assurance Maladie.
+*   **Tramadol et Codéine :**
+    *   Ordonnance sécurisée obligatoire au **1er mars 2025.**
+    *   Durée de validité réduite à 3 mois.
+    *   Former l'équipe aux nouvelles exigences.
+
+💡 **Recommandation :** Mettre en place une veille réglementaire pour anticiper les changements.
+
+## Sources
+
+*   Vérifier et signaler une fausse ordonnance avec le dispositif «Alerte sécurisée aux fausses ordonnances» (ASAFO) sur amelipro - https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/verifier-et-signaler-une-fausse-ordonnance-avec-le-dispositif-alerte-securisee-aux-fausses-ordonnances-asafo-sur-amelipro
+*   Prescription électronique, où en est l’ordonnance numérique ? - https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/prescription-electronique-ou-en-est-l-ordonnance-numerique
+*   Report des modifications de prescription / délivrance du tramadol et codéine au 1er mars 2025 - https://www.ordre.pharmacien.fr/les-communications/focus-sur/les-actualites/report-des-modifications-de-prescription-delivrance-du-tramadol-et-codeine-au-1er-mars-2025
+*   Règles générales de prescription et de délivrance : règles juridiques de rédaction des ordonnances - VIDAL - https://www.vidal.fr/infos-pratiques/regles-generales-de-prescription-et-de-delivrance-regles-juridiques-de-redaction-des-ordonnances-id16178.html
+*   Les ordonnances - https://www.cofemer.fr/les-ordonnances/
+*   Les prescriptions et délivrances hors AMM à l’officine - https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/les-prescriptions-et-delivrances-hors-amm-a-l-officine
+*   Analyse pharmaceutique de l'ordonnance - Éditions Tissot - https://www.editions-tissot.fr/actualite/pharmacie/analyse-pharmaceutique-de-l-ordonnance
+*   Transposition des bonnes pratiques de dispensation des médicaments à l'officine (BPD) - https://www.vidal.fr/actualites/28850-transposition-des-bonnes-pratiques-de-dispensation-des-medicaments-a-l-officine-bpd
+*   Analyse de l'ordonnance : un rôle clé du pharmacien - Pharma Système Qualité - https://www.pharmasystemequalite.com/nos-articles/126-analyse-de-l-ordonnance-un-role-cle-du-pharmacien.html
+```

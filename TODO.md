@@ -7,6 +7,7 @@
 - [ ] Fix [EventBus Error] Handler 'on_task_failed' failed for event 'TaskFailedEvent': 'TaskFailedEvent' object has no attribute 'error_message'
 - [ ] Fix [EventBus Error] Handler 'on_crew_failed' failed for event 'CrewKickoffFailedEvent': 'CrewKickoffFailedEvent' object has no attribute 'error_message'
 - [ ] Add python debugger
+- [ ] Instead of asking LLMs to copy/paste URLs between tasks, extract manually and add them to the final output
 
 ### In Progress
 

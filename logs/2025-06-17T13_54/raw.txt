@@ -1,0 +1,71 @@
+```markdown
+# Vérification d'une Ordonnance Européenne : Le Guide du Pharmacien
+
+Ce guide pratique a pour objectif d'aider le pharmacien à vérifier efficacement une ordonnance provenant d'un autre État membre de l'Union Européenne. Il résume les points clés à contrôler et les recommandations à suivre pour une dispensation sécurisée et conforme à la réglementation.
+
+## 1. Cadre Réglementaire ⚖️
+
+La dispensation de médicaments sur ordonnance européenne est régie par :
+
+*   **Décret n°2013-1216**
+*   **Articles R. 5132-3, R. 5132-3-1 et R. 5132-6 du Code de la Santé Publique (CSP)**
+
+Le pharmacien est responsable de la conformité de l'ordonnance aux exigences françaises. Une **analyse pharmaceutique rigoureuse** selon les Bonnes Pratiques de Dispensation (BPD) est obligatoire.
+
+## 2. Check-list de Vérification 📝
+
+Utilisez cette check-list pour vous assurer que l'ordonnance contient toutes les informations nécessaires :
+
+### 2.1. Informations sur le Prescripteur 👨‍⚕️
+
+*   ✅ **Nom et prénom**
+*   ✅ **Qualité (ex : médecin, spécialiste...)**
+*   ✅ **Identifiant professionnel (si applicable)**
+*   ✅ **Adresse professionnelle complète**
+*   ✅ **Coordonnées téléphoniques**
+*   ✅ **Adresse électronique**
+*   ✅ **Signature (manuscrite ou électronique)**
+*   ✅ **Date de rédaction de l'ordonnance**
+*   ✅ **Nom de l'établissement ou service de santé (si médicament à prescription hospitalière)**
+
+### 2.2. Informations sur le Patient 🧍
+
+*   ✅ **Nom et prénom**
+*   ✅ **Sexe**
+*   ✅ **Date de naissance**
+*   ✅ **Si nécessaire (ex: pédiatrie, adaptation posologique) : Taille et poids**
+
+### 2.3. Détails du Traitement Médicamenteux 💊
+
+*   ✅ **Dénomination Commune Internationale (DCI) du médicament**
+*   ✅ **Posologie (dose, fréquence, moment de prise)**
+*   ✅ **Mode d'emploi / Voie d'administration**
+*   ✅ **Durée du traitement OU nombre d'unités de conditionnement**
+*   ✅ **Nombre de renouvellements (si applicable)**
+*   ✅ **Nom de marque (uniquement si...)**
+    *   **Non substituable pour justification médicale explicite**
+    *   **Médicament immunologique, biologique, biologique similaire, dérivé du sang, médicament de thérapie innovante ou produit issu de l’ingénierie tissulaire.**
+
+## 3. Points de Vigilance Particuliers 🚨
+
+*   **Médicaments à statut particulier :** Soyez très vigilant avec les stupéfiants et les médicaments dérivés du sang. La législation française est très stricte.
+*   **Langue de l'ordonnance :** Si vous ne comprenez pas la langue, faites traduire l'ordonnance.  Des outils de traduction en ligne peuvent aider, mais **la responsabilité de la vérification vous incombe**.
+*   **Substitutions :** La substitution est possible, mais soyez prudent ! Les compositions et dosages peuvent varier d'un pays à l'autre. En cas de doute, délivrez le médicament prescrit.
+*   **Fausse ordonnance :** Les ordonnances transfrontalières peuvent être plus difficiles à authentifier. Redoublez de vigilance! Contactez le prescripteur en cas de doute.
+*   **Délivrance de stupéfiants :** Autorisé, mais avec **grande prudence**. En cas de doute, contactez le Conseil Régional de l'Ordre des Pharmaciens (CROP). Des sanctions sont prévues en cas de délivrance non conforme.
+
+## 4. Actions Recommandées ✅
+
+*   **Créez votre propre check-list** basée sur ce modèle et adaptez-la à votre pratique.
+*   **Paramétrez votre logiciel** pour qu'il vous alerte automatiquement lors de la réception d'une ordonnance européenne et affiche la check-list.
+*   **Formez-vous régulièrement** sur la législation pharmaceutique européenne et les Bonnes Pratiques de Dispensation.
+*   **Contactez le prescripteur** en cas de doute ou d'information manquante. Documentez toujours vos échanges.
+
+## 5. Que faire en cas de doute important ? ❓
+
+En cas de doute persistant sur l'authenticité ou la validité d'une ordonnance, **ne délivrez pas le médicament**. Contactez le Conseil Régional de l'Ordre des Pharmaciens (CROP) pour obtenir un avis.
+
+## 6. Sources 📚
+
+*   **Dispensation de médicaments sur la base d'une ordonnance de l'union européenne** - [https://www.ordre.pharmacien.fr/je-suis/pharmacien/pharmacien/mon-exercice-professionnel/les-fiches-professionnelles/dispensation-de-medicaments-sur-la-base-d-une-ordonnance-de-l-union-europeenne2] - *Fiche d'information de l'Ordre National des Pharmaciens détaillant les règles de dispensation des ordonnances européennes.*
+```

@@ -1,0 +1,44 @@
+```markdown
+# Fiche Réflexe : FINASTERIDE 💊
+---
+## 🚨 L'ESSENTIEL EN 30 SECONDES > *À scanner avant toute dispensation*
+- **TROUBLES PSYCHIQUES :** Risque de **Dépression** et **Idées suicidaires**, surtout chez les < 25 ans et antécédents. Questionner le moral !
+- **TROUBLES SEXUELS :** Possibles (baisse libido, impuissance). Peuvent persister après l'arrêt. Bien informer le patient.
+- **ALLERGIE :** Rare, mais grave (Œdème de Quincke). Indiquer d'arrêter et contacter urgences si symptômes.
+---
+## 💬 CONSEILS AU COMPTOIR
+### Première Délivrance
+- [ ] **Antécédents :** "Avez-vous des antécédents de troubles psychiques (dépression, anxiété) ? Votre médecin vous a-t-il informé des risques et bénéfices de ce traitement ?"
+- [ ] **Effets secondaires :** "Ce médicament peut entraîner des troubles de l'humeur ou sexuels. Si cela arrive, contactez votre médecin immédiatement."
+- [ ] **Prise :** "Vous pouvez prendre ce médicament pendant ou en dehors des repas, à heure fixe si possible."
+### Renouvellement
+- [ ] **Moral :** "Comment vous sentez-vous moralement ? Avez-vous remarqué des changements d'humeur ?"
+- [ ] **Sexualité :** "Tout se passe-t-il bien sur le plan sexuel ?" (Aborder avec tact)
+- [ ] **Autres médicaments :** "Prenez-vous d'autres médicaments, même sans ordonnance ? Attention au Millepertuis !"
+### 👨‍⚕️ Focus Patientèle : Conseil spécifique pour le patient jeune
+- Expliquer que la perte de cheveux à un jeune âge peut aussi être dûe à des causes autres qu'androgénétique, comme le stress, les carences en fer ou en vitamines. Demandez lui s'il a consulté un médecin pour ces raisons.
+---
+## 🔬 APPROFONDISSEMENT POUR LE PHARMACIEN
+### ⚠️ Risques et Conduite à Tenir
+| Risque | Description | Conduite à Tenir |
+|---|---|---|
+| **Troubles Psychiques** | Dépression, Idées suicidaires. Risque accru chez jeunes et antécédents. | Anamnèse rigoureuse. Information claire au patient et à l'entourage. Alerter si changement d'humeur. |
+| **Troubles Sexuels** | Baisse de libido, dysfonction érectile, troubles de l'éjaculation. Peuvent persister après arrêt. | Information préalable. Suivi régulier. Envisager alternatives si invalidants. |
+| **Réactions Allergiques Graves** | Œdème de Quincke (gonflement visage, lèvres, langue, gorge).  Difficultés à respirer. | Information claire.  Arrêt immédiat + Urgences (15/112). |
+### 💊 Interactions Médicamenteuses
+- **Millepertuis :** Diminution possible de l'efficacité du finastéride.
+### 🚫 Erreurs à Éviter
+- **Minimiser troubles psychiques :** Toujours prendre au sérieux les plaintes concernant l'humeur.
+- **Oublier les troubles sexuels :** Questionner systématiquement, même si le patient n'en parle pas.
+- **Négliger le suivi :** Rappeler l'importance d'un suivi médical régulier.
+---
+## 🚩 DRAPEAUX ROUGES : Quand contacter le prescripteur ?
+- Patient exprime des idées suicidaires. 🖤
+- Troubles sexuels sévères et invalidants. 💔
+- Association avec Millepertuis non validée par le médecin. 🌿
+- Premiers signes de réaction allergique. 🤧
+---
+## 📚 SOURCES
+- [Fiche ANSM (à compléter avec l'URL)](https://ansm.sante.fr/)
+- [Fiche VIDAL (à compléter avec l'URL)](https://www.vidal.fr/)
+```

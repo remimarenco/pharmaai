@@ -1,0 +1,6 @@
+2025-06-17 15:21:26,106 INFO Logger initialisé dans logs\2025-06-17T15_21\pharmaai.log
+2025-06-17 15:21:26,135 INFO Création de la crew avec log dans logs\2025-06-17T15_21\Pharmaai_crew.json
+2025-06-17 15:22:58,311 INFO Fichier écrit : logs\2025-06-17T15_21\raw.txt
+2025-06-17 15:22:58,315 INFO Fichier écrit : logs\2025-06-17T15_21\json_output.json
+2025-06-17 15:22:58,318 INFO Fichier écrit : logs\2025-06-17T15_21\tasks_output.txt
+2025-06-17 15:22:58,324 INFO Fichier écrit : logs\2025-06-17T15_21\token_usage.txt

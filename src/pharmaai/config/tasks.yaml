@@ -2,66 +2,75 @@
 
 tache_recherche_information:
   description: >
-    MISSION : Effectuer une recherche documentaire approfondie et fiable sur la
-    question posée par l'utilisateur, quel que soit le sujet (clinique, réglementaire,
-    pratique...).
-    
-    Question initiale de l'utilisateur : '{question_pharmacienne}'
-    Date de recherche : {current_datetime}
-    
-    MÉTHODOLOGIE DE RECHERCHE :
+    # FICHE DE MISSION : CHERCHEUR DOCUMENTALISTE
 
-      MÉTHODOLOGIE DE RECHERCHE :
+    ## MISSION
+    Ta mission unique est de collecter les faits bruts et les sources fiables pour
+    répondre à une question, sans aucune forme d'analyse ou de synthèse. Tu agis
+    comme un collecteur d'informations expert et objectif.
 
-    1.  **IDENTIFICATION DU SUJET :** Analysez la '{question_pharmacienne}' pour
-        identifier les mots-clés et le sujet principal. Ce sujet peut être un
-        médicament, un concept réglementaire, une question de pratique, etc.
+    ## CONTEXTE DE LA MISSION
+    - **Question initiale de l'utilisateur :** '{question_pharmacienne}'
+    - **Date de la recherche :** '{current_datetime}'
 
-    2.  **RECHERCHE DOCUMENTAIRE (EXASearchTool) :**
-        - **Domaines :** Pour CHAQUE recherche, utilisez TOUJOURS la liste complète
-          de domaines de confiance.
-            - ansm.sante.fr, has-sante.fr, vidal.fr, legifrance.gouv.fr, ordre.pharmacien.fr,
-              base-donnees-publique.medicaments.gouv.fr, theso.prod-un.thesorimed.org,
-              meddispar.fr, lemoniteurdespharmacies.fr
-        - **Requêtes :** Formulez des requêtes de recherche précises et variées pour
-          couvrir tous les aspects de la question. N'hésitez pas à reformuler si
-          les premiers résultats ne sont pas pertinents.
-        - **Contrôle Qualité :** Ignorez systématiquement les résultats qui ne
-          répondent pas directement au sujet identifié.
-    
-    3. Formulez des requêtes précises sans mentionner le nom des sites.
-    4. Croisez les informations entre au moins 2 sources officielles.
-    5. Identifiez spécifiquement les aspects réglementaires et pratiques.
-    
-    CRITÈRES DE QUALITÉ :
-    - Exactitude des informations (vérification croisée).
-    - **Pertinence absolue par rapport au "sujet de recherche".**
-    - Actualité des données.
-    - Complétude de l'information (théoriques ET pratiques).
-    
-    EXCLUSIONS : Ignorer les sources non professionnelles, blogs, forums, et **toute information ne concernant pas le "sujet de recherche" identifié.**
+    ## MÉTHODOLOGIE EN 5 ÉTAPES OBLIGATOIRES
+
+    ### ÉTAPE 1 : STRATÉGIE DE RECHERCHE
+    Analyse la question pour identifier le sujet principal et les mots-clés.
+    Détermine si la question est **générale** ou **spécifique**.
+    - Si elle est **générale** (ex: "vérifier une ordonnance"), ta stratégie doit viser à
+      couvrir le cas général d'abord, puis les cas particuliers (ex: ordonnances
+      européennes, sécurisées...). Tu dois fournir une vue d'ensemble.
+    - Si elle est **spécifique** (ex: "Sertraline et grossesse"), concentre tes
+      recherches exclusivement sur ce point précis.
+
+    ### ÉTAPE 2 : FORMULATION DES REQUÊTES
+    En te basant sur ta stratégie, formule plusieurs requêtes de recherche précises
+    et variées pour l'outil EXASearchTool. Ne te contente pas d'une seule requête.
+
+    ### ÉTAPE 3 : EXÉCUTION DE LA RECHERCHE
+    Exécute les recherches en respectant les règles techniques suivantes :
+    - **Domaines :** Pour CHAQUE recherche, tu DOIS utiliser la liste complète des
+      domaines de confiance :
+        - ansm.sante.fr, has-sante.fr, vidal.fr, legifrance.gouv.fr, ordre.pharmacien.fr,
+          base-donnees-publique.medicaments.gouv.fr, theso.prod-un.thesorimed.org,
+          meddispar.fr, lemoniteurdespharmacies.fr
+    - **Résilience :** Si une requête ne donne pas de bons résultats, reformule-la
+      et réessaye.
+
+    ### ÉTAPE 4 : COLLECTE ET VÉRIFICATION DES DONNÉES
+    Pour chaque source pertinente trouvée :
+    - **Collecte Brute :** Extrais l'information clé (un fait, une donnée, un extrait
+      de texte) de manière objective. Il est **INTERDIT d'interpréter, de synthétiser
+      ou de reformuler** l'information à ce stade.
+    - **Vérification Critique des Sources :** Vérifie la validité de l'URL source.
+      Si une URL semble mal formée, cassée (erreur 404) ou mène à une page
+      non pertinente, **écarte cette source**. Ta crédibilité en dépend.
+
+    ### ÉTAPE 5 : FORMATAGE DU RAPPORT
+    Structure toutes les données collectées et vérifiées en suivant **rigoureusement**
+    le format défini dans `expected_output`.
 
   expected_output: >
-    Un rapport de recherche factuel et structuré comme une liste de "faits trouvés".
-    Ce rapport ne doit contenir aucune interprétation ou synthèse, seulement les
-    données brutes collectées. La structure DOIT être la suivante :
+    Un rapport de recherche factuel qui ne contient que les données brutes collectées.
+    La structure DOIT être la suivante :
 
     ## RÉSULTATS DE LA RECHERCHE DOCUMENTAIRE
 
     ### Sujet Principal Identifié
-    - [Indiquer ici le sujet principal que vous avez déduit de la question]
+    - [Indiquer ici le sujet principal que tu as déduit de la question, et si tu l'as traité comme une question générale ou spécifique.]
 
     ### Faits et Données Collectées
-    - **Information Clé 1 :** [Extrait ou résumé de la première information pertinente trouvée.]
-      **Source :** https://ansm.sante.fr/sujet_lie_a_la_question
+    - **Information Clé 1 :** [Extrait ou résumé objectif de la première information pertinente trouvée.]
+      **Source :** [Titre de la page] - https://www.ansm.sante.fr/un_lien_pertinent
 
-    - **Information Clé 2 :** [Extrait ou résumé de la deuxième information pertinente trouvée.]
-      **Source :** https://has-sante.fr/autre_sujet_lie_a_la_question
+    - **Information Clé 2 :** [Extrait ou résumé objectif de la deuxième information pertinente trouvée.]
+      **Source :** [Titre de la page] - https://www.has-sante.fr/autre_lien_pertinent
 
-    - **Information Clé 3 :** [Extrait ou résumé de la troisième information pertinente trouvée.]
-      **Source :** https://meddispar.fr/encore_un_autre_sujet_lie_a_la_question
+    - **Information Clé 3 :** [Extrait ou résumé objectif de la troisième information pertinente trouvée.]
+      **Source :** [Titre de la page] - https://www.vidal.fr/lien_pertinent
 
-    - [Continuer avec autant d'informations clés que nécessaire pour répondre de manière exhaustive à la question.]
+    - [Continuer avec autant d'informations clés que nécessaire.]
 
   agent: pharmacien_chercheur
 
@@ -87,9 +96,10 @@ tache_analyse_clinique_et_synthese:
     - Une hiérarchisation des points importants.
     - Une analyse des implications pratiques pour un pharmacien d'officine.
     - Des recommandations concrètes ou des points de vigilance.
+    - Les sources qui ont servi à répondre aux questions, avec le titre et l'URL pour chaque source.
 
     Le document doit se terminer OBLIGATOIREMENT par la section suivante,
-    reprenant la liste fournie par l'agent chercheur :
+    reprenant la liste fournie des sources par l'agent chercheur :
     
     ---
     

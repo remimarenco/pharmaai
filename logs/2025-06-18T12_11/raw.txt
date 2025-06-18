@@ -1,0 +1,84 @@
+```markdown
+# ZOLOFT (Sertraline) : Guide Pratique pour le Pharmacien
+
+Ce guide répond aux questions fréquentes concernant la dispensation et le conseil autour de la sertraline (ZOLOFT).
+
+## Questions Fréquentes
+
+**Q : Dans quels cas ZOLOFT est-il prescrit ?**
+
+**R :** ZOLOFT est un antidépresseur (ISRS) utilisé pour traiter:
+
+*   Dépression
+*   Troubles obsessionnels compulsifs (TOC)
+*   Attaques de panique
+*   Phobie sociale
+*   État de stress post-traumatique
+
+**Q : Y a-t-il des contre-indications importantes à vérifier avant de délivrer ZOLOFT ?**
+
+**R :** **OUI**. Vérifier absolument les contre-indications suivantes :
+
+*   **IMAO :** Association absolument contre-indiquée (sélégiline, moclobémide, linézolide). Respecter les délais entre l'arrêt de l'IMAO et le début de la sertraline (et inversement).
+*   **Pimozide :** Risque de torsades de pointes.
+*   **Patients de moins de 18 ans :** ZOLOFT est généralement déconseillé en raison du risque accru de pensées suicidaires. Si prescrit, une surveillance médicale étroite est indispensable.
+
+**Q : Quelles interactions médicamenteuses dois-je surveiller ?**
+
+**R :** Soyez particulièrement vigilant face à :
+
+*   **Inducteurs enzymatiques** (carbamazépine, phénytoïne, rifampicine...) : peuvent diminuer l'efficacité de la sertraline.
+*   **Risque de syndrome sérotoninergique :** Association avec triptans, lithium, fentanyl, tramadol, millepertuis. Soyez attentif aux signes (tremblements, confusion, agitation, fièvre).
+*   **Anticoagulants, Aspirine, AINS :** Risque hémorragique accru.
+*   **Pamplemousse :** Déconseiller la consommation durant le traitement (augmente les effets indésirables).
+*   **Plantes/Compléments alimentaires :** Valériane, passiflore, CBD... L'association est généralement déconseillée en l'absence de données.
+
+**Q : Quelles sont les informations importantes à transmettre au patient lors de la dispensation ?**
+
+**R :** Expliquez clairement au patient :
+
+*   **Délai d'action :** L'amélioration prend plusieurs semaines (2-4 semaines). Ne pas interrompre le traitement trop tôt.
+*   **Anxiété initiale :** Une anxiété peut apparaître ou s'aggraver au début. Le médecin peut prescrire un anxiolytique temporairement.
+*   **Durée du traitement :** Essentielle pour éviter les rechutes. La durée est rarement inférieure à 6 mois.
+*   **Arrêt du traitement :** Ne jamais arrêter brutalement. L'arrêt doit être progressif pour éviter les symptômes de sevrage.
+*   **Effets indésirables fréquents :** Somnolence, insomnie, maux de tête, diarrhée, nausées, troubles de l'éjaculation. Signaler tout effet inhabituel au médecin.
+*   **Syndrome sérotoninergique :** Informez le patient des symptômes et de la nécessité de consulter immédiatement en cas de suspicion.
+*   **Intolérance au lactose :** Zoloft contient du lactose. La prise de lactase peut être envisagée.
+*   **Alcool :** La consommation d'alcool est déconseillée.
+*   **Vigilance :** S'assurer que le médicament n'altère pas la vigilance avant de conduire ou d'utiliser des machines.
+
+**Q : Quels sont les signes d'alerte nécessitant de contacter le médecin ?**
+
+**R :** Orientez le patient vers le médecin en cas de :
+
+*   Pensées suicidaires, surtout chez les jeunes.
+*   Signes de manie (euphorie, excitation inhabituelle).
+*   Signes de syndrome sérotoninergique (tremblements, confusion, agitation, fièvre).
+*   Effets secondaires importants ou inhabituels.
+
+**Q : Que faire si le patient souhaite arrêter son traitement ?**
+
+**R :**
+
+*   **NE JAMAIS arrêter brutalement.**
+*   **Conseiller au patient de consulter son médecin** pour discuter d'un plan d'arrêt progressif.
+*   Expliquer les symptômes de sevrage possibles (anxiété, cauchemars, vertiges, tremblements).
+
+**Q : Y a-t-il des recommandations particulières pour les personnes âgées ?**
+
+**R :**
+
+*   La prudence est recommandée en raison d'une sensibilité accrue aux effets indésirables.
+*   Surveiller le risque d'interactions médicamenteuses, plus fréquent chez les personnes âgées polymédiquées.
+
+## Points de Vigilance (Résumé) 🚨
+
+*   **Risque suicidaire** (jeunes < 18 ans)
+*   **Interactions médicamenteuses** (IMAO, inducteurs enzymatiques, syndrome sérotoninergique)
+*   **Arrêt brutal du traitement**
+*   **Effets indésirables** (syndrome sérotoninergique)
+
+## Références
+
+*   ZOLOFT - [https://www.vidal.fr/medicaments/gammes/zoloft-11584.html](https://www.vidal.fr/medicaments/gammes/zoloft-11584.html)
+```

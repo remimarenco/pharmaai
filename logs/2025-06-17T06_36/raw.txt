@@ -1,0 +1,58 @@
+```markdown
+# Fiche Réflexe : SERTRALINE 💊
+---
+## 🚨 L'ESSENTIEL EN 30 SECONDES > *À scanner avant toute dispensation*
+
+- **INTERACTIONS :** ⚠️ Attention **SYNDROME SÉROTONINERGIQUE** (fièvre, agitation, sueurs, confusion). **CONTRE-INDIQUÉ** avec les **IMAO**. Associations à risque : **Triptans (migraine), Tramadol (douleur), Millepertuis (dépression légère).**
+- **ARRÊT :** ❌ **JAMAIS BRUTAL !** Diminution *très progressive* sur plusieurs semaines (voire mois) pour éviter le sevrage (vertiges, anxiété, paresthésies, "chocs électriques"). Expliquer l'importance de suivre les recommandations du médecin.
+- **SUIVI :** 😕 Risque d'idées suicidaires accru chez les **jeunes < 25 ans**, surtout au début. Questionner le moral et l'humeur.
+- **ÂGE D'OR 👵👴:** Risque d'**hyponatrémie** (baisse du sodium dans le sang). Surveiller : confusion, nausées, chutes. Prudence si diurétiques.
+
+---
+## 💬 CONSEILS AU COMPTOIR
+
+### 🔎 Première Délivrance
+- [ ] **Délai d'action ⏳:** *"Il faut souvent 2 à 4 semaines pour ressentir les effets positifs sur l'humeur. Soyez patient et prenez le traitement régulièrement, même si vous ne voyez pas d'amélioration immédiate."*
+- [ ] **Effets secondaires 🤔:** *"Au début, certaines personnes ont des nausées, des maux de tête ou des troubles digestifs. Prenez le médicament au milieu du repas pour minimiser cela. Ces effets sont souvent temporaires."*
+- [ ] **Idées noires 🖤:** *"Il est très important de nous recontacter (votre médecin OU votre pharmacien) si votre humeur se dégrade ou si vous avez des pensées inhabituelles, surtout en début de traitement. Ce n'est pas un signe de faiblesse, mais un effet possible du médicament."*
+- [ ] **Attention au millepertuis 🌿:** *"Utilisez-vous des produits de phytothérapie, comme le millepertuis pour la dépression légère? L'association avec la sertraline est déconseillée."*
+
+### 🔄 Renouvellement
+- [ ] **Observance 🙏:** *"Comment se passe la prise de votre traitement au quotidien? Avez-vous des difficultés?*"
+- [ ] **Effets secondaires ❓:** *"Avez-vous ressenti des effets secondaires gênants depuis la dernière fois? Ont-ils disparu?"*
+- [ ] **Nouvelles Interactions 💊❓:** *"Avez-vous commencé d'autres médicaments, même sans ordonnance (ex: pour la douleur, la migraine, un rhume) depuis la dernière fois?*"
+- [ ] **Arrêt programmé 📅❓:** *"Si vous vous sentez mieux, n'arrêtez jamais le traitement seul! L'arrêt doit être planifié avec votre médecin, en diminuant progressivement les doses pour éviter les symptômes de sevrage."*
+
+---
+## 🔬 APPROFONDISSEMENT POUR LE PHARMACIEN
+
+### 💊 Tableau des Interactions Majeures
+
+| Médicament/Classe             | Risque Principal                                  | Conduite à Tenir                                                                                                                                                     | Exemple concret (situation officine)                                                                                                                                                                                        |
+| :----------------------------- | :------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **IMAO** (ex: Moclobémide)     | 💥 Syndrome Sérotoninergique *mortel*             | 🚫 **CONTRE-INDICATION ABSOLUE**                                                                                                                                    | *Patient sortant de l'hôpital après traitement d'une dépression sévère. Vérifier l'absence d'IMAO.*                                                                                                                   |
+| **Triptans** (Migraine)       | 🤕 Syndrome Sérotoninergique                       | ⚠️ Association déconseillée. Si nécessaire, surveillance *+++* des signes (agitation, confusion, fièvre).                                                                   | *Femme de 35 ans sous Sertraline qui prend du Sumatriptan pour ses migraines.*                                                                                                                               |
+| **Tramadol, Millepertuis**      | 😵 Syndrome Sérotoninergique                       | ⚠️ Association déconseillée. Informer le patient des symptômes à surveiller. Préférez paracétamol si possible.                                                              | *Patient qui prend du Tramadol pour des douleurs chroniques (arthrose) et qui initie un traitement par Sertraline.* *Patient qui prend du millepertuis en automédication pour une déprime saisonnière*                                  |
+| **AINS** (Ibuprofène, etc.)   | 🩸 Risque hémorragique augmenté                     | 🩹 Conseiller Paracétamol en 1ère intention. Si AINS indispensable, cure courte et surveillance des signes hémorragiques (ecchymoses, saignements de nez/gencives). | *Patient sous Sertraline qui prend régulièrement de l'Ibuprofène pour des douleurs.*                                                                                                                                 |
+| **Anticoagulants (Warfarine)** | 🩸 Risque hémorragique augmenté                     | ⚠️ Surveillance accrue de l'INR (International Normalized Ratio). Adapter la posologie de l'anticoagulant si nécessaire.                                                               | *Patient sous Sintrom suite à une fibrillation auriculaire qui débute un traitement de Sertraline suite à une dépression*                                                                                                                           |
+
+### ✋ Gestion de l'Arrêt
+
+- **Principe :** Réduire la dose *progressivement*, par paliers de 25% toutes les 1 à 2 semaines (ou plus, selon l'avis du médecin et la tolérance du patient).
+- **Symptômes de sevrage fréquents :** Vertiges, céphalées, anxiété, irritabilité, troubles du sommeil, sensations de "chocs électriques", nausées. Ils sont *transitoires* mais désagréables. Rassurer le patient. Expliquer que ce ne sont pas des signes de rechute de sa dépression.
+
+### 🚩 DRAPEAUX ROUGES : Quand contacter le prescripteur ?
+
+- 🗣️ Patient exprime des **idées noires, suicidaires**. (Ne pas hésiter à orienter vers un service d'urgence si risque imminent).
+- 🤰 Patiente **enceinte** ou qui **allaite**. (Impact de la Sertraline sur le fœtus/nourrisson).
+- 🌡️ Signes évoquant un **syndrome sérotoninergique**. (Agitation, confusion, fièvre, tremblements).
+- 💊 **Association à risque non validée** par le prescripteur. (Vérification de l'ordonnance).
+- 👴 Sujet âgé présentant des signes de **confusion** ou de **chutes répétées** (Hyponatrémie ?).
+
+---
+## 📚 SOURCES 🔗
+
+- [Fiche ANSM Sertraline](https://www.vidal.fr/medicaments/substances/sertraline-1667.htm)
+- [Fiche VIDAL Sertraline](https://www.vidal.fr/medicaments/gammes/zoloft-2907.htm)
+- [CRAT Sertraline et Grossesse](https://lecrat.fr/spip.php?page=article&id_article=195)
+```

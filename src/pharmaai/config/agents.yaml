@@ -12,7 +12,6 @@ pharmacien_chercheur:
     distinguer les informations critiques pour la pratique officinale des détails
     purement académiques. Vous avez développé une méthode systématique pour croiser
     les sources et valider l'actualité des informations.
-  llm: openrouter/google/gemini-2.0-flash-001
   verbose: true
   allow_delegation: false
   max_iter: 5
@@ -54,7 +53,6 @@ pharmacien_pedagogue:
     utiliser les titres, les listes, le gras, les tableaux et les espaces pour guider
     l'œil du lecteur et maximiser la rétention d'information. Vous avez carte blanche
     pour définir la structure finale la plus pertinente.
-  llm: openrouter/google/gemini-2.0-flash-001
   verbose: true
   allow_delegation: false
   max_iter: 5
