@@ -1,14 +1,23 @@
-from crewai import Agent, Crew, Process, Task
+import os
+from typing import List, Any
+import json
+import dotenv
+from datetime import datetime
+from pathlib import Path
+
+# Must precede any llm module imports
+from langtrace_python_sdk import langtrace
+dotenv.load_dotenv()
+langtrace.init(os.getenv("LANGTRACE_API_KEY"))
+from langchain_community.chat_models import ChatLiteLLM
+
+from crewai import Agent, Crew, Process, Task, LLM
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
 from crewai.agents.parser import AgentAction, AgentFinish
-from typing import List, Any
-import os
-import json
-from datetime import datetime
-from pathlib import Path
+
 #from crewai_tools import EXASearchTool
-from pharmaai.tools.pharmacie_exa_tool import EXASearchTool
+from src.pharmaai.tools.pharmacie_exa_tool import EXASearchTool
 
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -44,19 +53,22 @@ class Pharmaai():
 
         return Agent(
             config=self.agents_config['pharmacien_chercheur'],
-            tools=[EXASearchTool(api_key=exa_api_key, content=True)]
+            tools=[EXASearchTool(api_key=exa_api_key, content=True)],
+            llm=ChatLiteLLM(model="openrouter/google/gemini-2.0-flash-001")
         )
 
     @agent
     def pharmacien_expert_clinique(self) -> Agent:
         return Agent(
             config=self.agents_config['pharmacien_expert_clinique'],
+            llm=ChatLiteLLM(model="openrouter/google/gemini-2.0-flash-001")
         )
 
     @agent
     def pharmacien_pedagogue(self) -> Agent:
         return Agent(
             config=self.agents_config['pharmacien_pedagogue'],
+            llm=ChatLiteLLM(model="openrouter/google/gemini-2.0-flash-001")
         )
 
     # To learn more about structured task outputs,
@@ -165,6 +177,6 @@ class Pharmaai():
             process=Process.sequential,
             verbose=True,
             output_log_file=str(output_log_file),
-            step_callback=self.step_callback
+            step_callback=self.step_callback,
             # process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
         )
